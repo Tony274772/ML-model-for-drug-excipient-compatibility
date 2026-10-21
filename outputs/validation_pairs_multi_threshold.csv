@@ -1,0 +1,25 @@
+pair,gt,p_2D,p_mol2vec,p_final,saved_p,shipped_p,@0.5,@0.202,@0.02
+Warfarin + Magnesium Aluminum Silicate,1,0.741,0.734,0.977,0.978,0.996,1,1,1
+Phenytoin + Magnesium Oxide,1,0.723,0.696,0.97,0.97,0.991,1,1,1
+Trichlormethiazide + Magnesium Oxide,1,0.352,0.559,0.508,0.572,0.569,1,1,1
+Tetracycline + Calcium Phosphate,1,0.031,0.093,0.012,0.013,0.996,0,0,0
+Fluvoxamine + Lactose,1,0.129,0.793,0.333,0.347,0.994,0,1,1
+Acetazolamide + Lactose,1,0.18,0.875,0.512,0.609,0.325,1,1,1
+Acetazolamide + Mannitol,1,0.061,0.151,0.019,0.024,0.107,0,0,0
+Phenytoin Sodium + Lactose,1,0.21,0.365,0.132,0.143,0.63,0,0,1
+Phenytoin Sodium + Calcium Sulfate,1,0.451,0.855,0.886,0.911,0.996,1,1,1
+Hydrocortisone + Magnesium Stearate,1,0.056,0.254,0.028,0.031,0.996,0,0,1
+Hydrocortisone + Beta Cyclodextrin,1,0.011,0.061,0.009,0.009,0.923,0,0,0
+Quercetin + Magnesium Carbonate,1,0.858,0.937,0.996,0.996,0.996,1,1,1
+Metformin Hydrochloride + Magnesium Stearate,0,0.032,0.054,0.01,0.01,0.047,0,0,0
+Lamotrigine + Sodium Lauryl Sulfate,0,0.093,0.053,0.016,0.021,0.064,0,0,0
+Gabapentin + Mannitol,0,0.022,0.012,0.008,0.008,0.119,0,0,0
+Omeprazole + Silicon Dioxide,0,0.003,0.005,0.007,0.007,0.026,0,0,0
+Carbamazepine + Propylene Glycol,0,0.013,0.018,0.008,0.008,0.168,0,0,0
+Hydrochlorothiazide + Stearic Acid,0,0.01,0.027,0.008,0.008,0.028,0,0,0
+Celecoxib + Titanium Dioxide,0,0.003,0.005,0.007,0.007,0.028,0,0,0
+Topiramate + Triacetin,0,0.176,0.05,0.03,0.035,0.951,0,0,1
+Levetiracetam + Talc,0,0.002,0.091,0.009,0.01,0.479,0,0,0
+Fenofibrate + Sucrose,0,0.175,0.445,0.14,0.207,0.994,0,0,1
+Risperidone + Lactose Monohydrate,0,0.002,0.003,0.007,0.007,0.033,0,0,0
+Olanzapine + Magnesium Stearate,0,0.133,0.026,0.019,0.026,0.131,0,0,0
