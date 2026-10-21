@@ -45,8 +45,9 @@ import os
 #    which shells out to `wmic` (removed in Windows 11) and prints a traceback.
 #  * PYTHONWARNINGS is inherited by joblib worker processes; warnings.filterwarnings() below
 #    only affects this process, so ConvergenceWarnings from grid-search workers leaked through.
+#    Overwritten, not setdefault: Colab presets PYTHONWARNINGS (for pip), which would win.
 os.environ.setdefault('LOKY_MAX_CPU_COUNT', str(max(1, (os.cpu_count() or 2) - 1)))
-os.environ.setdefault('PYTHONWARNINGS', 'ignore')
+os.environ['PYTHONWARNINGS'] = 'ignore'
 
 import argparse
 import hashlib
