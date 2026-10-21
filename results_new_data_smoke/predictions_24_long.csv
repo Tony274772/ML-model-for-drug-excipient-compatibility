@@ -1,0 +1,1873 @@
+model,threshold_rule,threshold,pair,API_CID,Excipient_CID,pair_in_train,ground_truth,prob,pred,correct
+mol2vec/RandomForest,default_0.5,0.5,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.44,0,0
+mol2vec/RandomForest,default_0.5,0.5,Phenytoin + Magnesium oxide,1775,14792,False,1,0.68,1,1
+mol2vec/RandomForest,default_0.5,0.5,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.82,1,1
+mol2vec/RandomForest,default_0.5,0.5,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.6,1,1
+mol2vec/RandomForest,default_0.5,0.5,Fluvoxamine + Lactose,5324346,6134,False,1,0.26,0,0
+mol2vec/RandomForest,default_0.5,0.5,Acetazolamide + Lactose,1986,6134,False,1,0.54,1,1
+mol2vec/RandomForest,default_0.5,0.5,Acetazolamide + Mannitol,1986,6251,False,1,0.74,1,1
+mol2vec/RandomForest,default_0.5,0.5,Phenytoin sodium + Lactose,657302,6134,False,1,0.36,0,0
+mol2vec/RandomForest,default_0.5,0.5,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.6,1,1
+mol2vec/RandomForest,default_0.5,0.5,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.48,0,0
+mol2vec/RandomForest,default_0.5,0.5,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.3,0,0
+mol2vec/RandomForest,default_0.5,0.5,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.38,0,0
+mol2vec/RandomForest,default_0.5,0.5,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.62,1,0
+mol2vec/RandomForest,default_0.5,0.5,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.36,0,1
+mol2vec/RandomForest,default_0.5,0.5,GABAPENTIN + MANNITOL,3446,6251,False,0,0.84,1,0
+mol2vec/RandomForest,default_0.5,0.5,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.08,0,1
+mol2vec/RandomForest,default_0.5,0.5,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.7,1,0
+mol2vec/RandomForest,default_0.5,0.5,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.74,1,0
+mol2vec/RandomForest,default_0.5,0.5,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.06,0,1
+mol2vec/RandomForest,default_0.5,0.5,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.28,0,1
+mol2vec/RandomForest,default_0.5,0.5,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.66,1,0
+mol2vec/RandomForest,default_0.5,0.5,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.04,0,1
+mol2vec/RandomForest,default_0.5,0.5,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.04,0,1
+mol2vec/RandomForest,default_0.5,0.5,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.46,0,1
+mol2vec/RandomForest,f1_val,0.241,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.44,1,1
+mol2vec/RandomForest,f1_val,0.241,Phenytoin + Magnesium oxide,1775,14792,False,1,0.68,1,1
+mol2vec/RandomForest,f1_val,0.241,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.82,1,1
+mol2vec/RandomForest,f1_val,0.241,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.6,1,1
+mol2vec/RandomForest,f1_val,0.241,Fluvoxamine + Lactose,5324346,6134,False,1,0.26,1,1
+mol2vec/RandomForest,f1_val,0.241,Acetazolamide + Lactose,1986,6134,False,1,0.54,1,1
+mol2vec/RandomForest,f1_val,0.241,Acetazolamide + Mannitol,1986,6251,False,1,0.74,1,1
+mol2vec/RandomForest,f1_val,0.241,Phenytoin sodium + Lactose,657302,6134,False,1,0.36,1,1
+mol2vec/RandomForest,f1_val,0.241,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.6,1,1
+mol2vec/RandomForest,f1_val,0.241,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.48,1,1
+mol2vec/RandomForest,f1_val,0.241,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.3,1,1
+mol2vec/RandomForest,f1_val,0.241,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.38,1,1
+mol2vec/RandomForest,f1_val,0.241,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.62,1,0
+mol2vec/RandomForest,f1_val,0.241,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.36,1,0
+mol2vec/RandomForest,f1_val,0.241,GABAPENTIN + MANNITOL,3446,6251,False,0,0.84,1,0
+mol2vec/RandomForest,f1_val,0.241,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.08,0,1
+mol2vec/RandomForest,f1_val,0.241,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.7,1,0
+mol2vec/RandomForest,f1_val,0.241,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.74,1,0
+mol2vec/RandomForest,f1_val,0.241,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.06,0,1
+mol2vec/RandomForest,f1_val,0.241,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.28,1,0
+mol2vec/RandomForest,f1_val,0.241,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.66,1,0
+mol2vec/RandomForest,f1_val,0.241,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.04,0,1
+mol2vec/RandomForest,f1_val,0.241,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.04,0,1
+mol2vec/RandomForest,f1_val,0.241,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.46,1,0
+mol2vec/RandomForest,paper_f1_0.202,0.202,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.44,1,1
+mol2vec/RandomForest,paper_f1_0.202,0.202,Phenytoin + Magnesium oxide,1775,14792,False,1,0.68,1,1
+mol2vec/RandomForest,paper_f1_0.202,0.202,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.82,1,1
+mol2vec/RandomForest,paper_f1_0.202,0.202,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.6,1,1
+mol2vec/RandomForest,paper_f1_0.202,0.202,Fluvoxamine + Lactose,5324346,6134,False,1,0.26,1,1
+mol2vec/RandomForest,paper_f1_0.202,0.202,Acetazolamide + Lactose,1986,6134,False,1,0.54,1,1
+mol2vec/RandomForest,paper_f1_0.202,0.202,Acetazolamide + Mannitol,1986,6251,False,1,0.74,1,1
+mol2vec/RandomForest,paper_f1_0.202,0.202,Phenytoin sodium + Lactose,657302,6134,False,1,0.36,1,1
+mol2vec/RandomForest,paper_f1_0.202,0.202,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.6,1,1
+mol2vec/RandomForest,paper_f1_0.202,0.202,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.48,1,1
+mol2vec/RandomForest,paper_f1_0.202,0.202,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.3,1,1
+mol2vec/RandomForest,paper_f1_0.202,0.202,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.38,1,1
+mol2vec/RandomForest,paper_f1_0.202,0.202,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.62,1,0
+mol2vec/RandomForest,paper_f1_0.202,0.202,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.36,1,0
+mol2vec/RandomForest,paper_f1_0.202,0.202,GABAPENTIN + MANNITOL,3446,6251,False,0,0.84,1,0
+mol2vec/RandomForest,paper_f1_0.202,0.202,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.08,0,1
+mol2vec/RandomForest,paper_f1_0.202,0.202,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.7,1,0
+mol2vec/RandomForest,paper_f1_0.202,0.202,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.74,1,0
+mol2vec/RandomForest,paper_f1_0.202,0.202,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.06,0,1
+mol2vec/RandomForest,paper_f1_0.202,0.202,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.28,1,0
+mol2vec/RandomForest,paper_f1_0.202,0.202,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.66,1,0
+mol2vec/RandomForest,paper_f1_0.202,0.202,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.04,0,1
+mol2vec/RandomForest,paper_f1_0.202,0.202,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.04,0,1
+mol2vec/RandomForest,paper_f1_0.202,0.202,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.46,1,0
+mol2vec/RandomForest,paper_ghost_0.020,0.02,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.44,1,1
+mol2vec/RandomForest,paper_ghost_0.020,0.02,Phenytoin + Magnesium oxide,1775,14792,False,1,0.68,1,1
+mol2vec/RandomForest,paper_ghost_0.020,0.02,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.82,1,1
+mol2vec/RandomForest,paper_ghost_0.020,0.02,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.6,1,1
+mol2vec/RandomForest,paper_ghost_0.020,0.02,Fluvoxamine + Lactose,5324346,6134,False,1,0.26,1,1
+mol2vec/RandomForest,paper_ghost_0.020,0.02,Acetazolamide + Lactose,1986,6134,False,1,0.54,1,1
+mol2vec/RandomForest,paper_ghost_0.020,0.02,Acetazolamide + Mannitol,1986,6251,False,1,0.74,1,1
+mol2vec/RandomForest,paper_ghost_0.020,0.02,Phenytoin sodium + Lactose,657302,6134,False,1,0.36,1,1
+mol2vec/RandomForest,paper_ghost_0.020,0.02,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.6,1,1
+mol2vec/RandomForest,paper_ghost_0.020,0.02,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.48,1,1
+mol2vec/RandomForest,paper_ghost_0.020,0.02,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.3,1,1
+mol2vec/RandomForest,paper_ghost_0.020,0.02,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.38,1,1
+mol2vec/RandomForest,paper_ghost_0.020,0.02,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.62,1,0
+mol2vec/RandomForest,paper_ghost_0.020,0.02,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.36,1,0
+mol2vec/RandomForest,paper_ghost_0.020,0.02,GABAPENTIN + MANNITOL,3446,6251,False,0,0.84,1,0
+mol2vec/RandomForest,paper_ghost_0.020,0.02,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.08,1,0
+mol2vec/RandomForest,paper_ghost_0.020,0.02,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.7,1,0
+mol2vec/RandomForest,paper_ghost_0.020,0.02,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.74,1,0
+mol2vec/RandomForest,paper_ghost_0.020,0.02,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.06,1,0
+mol2vec/RandomForest,paper_ghost_0.020,0.02,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.28,1,0
+mol2vec/RandomForest,paper_ghost_0.020,0.02,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.66,1,0
+mol2vec/RandomForest,paper_ghost_0.020,0.02,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.04,1,0
+mol2vec/RandomForest,paper_ghost_0.020,0.02,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.04,1,0
+mol2vec/RandomForest,paper_ghost_0.020,0.02,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.46,1,0
+mol2vec/DecisionTree,default_0.5,0.5,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.0,0,0
+mol2vec/DecisionTree,default_0.5,0.5,Phenytoin + Magnesium oxide,1775,14792,False,1,1.0,1,1
+mol2vec/DecisionTree,default_0.5,0.5,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,1.0,1,1
+mol2vec/DecisionTree,default_0.5,0.5,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.0,0,0
+mol2vec/DecisionTree,default_0.5,0.5,Fluvoxamine + Lactose,5324346,6134,False,1,0.0,0,0
+mol2vec/DecisionTree,default_0.5,0.5,Acetazolamide + Lactose,1986,6134,False,1,1.0,1,1
+mol2vec/DecisionTree,default_0.5,0.5,Acetazolamide + Mannitol,1986,6251,False,1,1.0,1,1
+mol2vec/DecisionTree,default_0.5,0.5,Phenytoin sodium + Lactose,657302,6134,False,1,0.0,0,0
+mol2vec/DecisionTree,default_0.5,0.5,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.0,0,0
+mol2vec/DecisionTree,default_0.5,0.5,Hydrocortisone + Magnesium stearate,5754,11177,True,1,1.0,1,1
+mol2vec/DecisionTree,default_0.5,0.5,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,1.0,1,1
+mol2vec/DecisionTree,default_0.5,0.5,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.0,0,0
+mol2vec/DecisionTree,default_0.5,0.5,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.961038961038961,1,0
+mol2vec/DecisionTree,default_0.5,0.5,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,1.0,1,0
+mol2vec/DecisionTree,default_0.5,0.5,GABAPENTIN + MANNITOL,3446,6251,False,0,0.961038961038961,1,0
+mol2vec/DecisionTree,default_0.5,0.5,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.0,0,1
+mol2vec/DecisionTree,default_0.5,0.5,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.3333333333333333,0,1
+mol2vec/DecisionTree,default_0.5,0.5,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.961038961038961,1,0
+mol2vec/DecisionTree,default_0.5,0.5,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.0,0,1
+mol2vec/DecisionTree,default_0.5,0.5,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,1.0,1,0
+mol2vec/DecisionTree,default_0.5,0.5,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.961038961038961,1,0
+mol2vec/DecisionTree,default_0.5,0.5,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.0,0,1
+mol2vec/DecisionTree,default_0.5,0.5,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.0,0,1
+mol2vec/DecisionTree,default_0.5,0.5,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.0,0,1
+mol2vec/DecisionTree,f1_val,0.334,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.0,0,0
+mol2vec/DecisionTree,f1_val,0.334,Phenytoin + Magnesium oxide,1775,14792,False,1,1.0,1,1
+mol2vec/DecisionTree,f1_val,0.334,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,1.0,1,1
+mol2vec/DecisionTree,f1_val,0.334,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.0,0,0
+mol2vec/DecisionTree,f1_val,0.334,Fluvoxamine + Lactose,5324346,6134,False,1,0.0,0,0
+mol2vec/DecisionTree,f1_val,0.334,Acetazolamide + Lactose,1986,6134,False,1,1.0,1,1
+mol2vec/DecisionTree,f1_val,0.334,Acetazolamide + Mannitol,1986,6251,False,1,1.0,1,1
+mol2vec/DecisionTree,f1_val,0.334,Phenytoin sodium + Lactose,657302,6134,False,1,0.0,0,0
+mol2vec/DecisionTree,f1_val,0.334,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.0,0,0
+mol2vec/DecisionTree,f1_val,0.334,Hydrocortisone + Magnesium stearate,5754,11177,True,1,1.0,1,1
+mol2vec/DecisionTree,f1_val,0.334,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,1.0,1,1
+mol2vec/DecisionTree,f1_val,0.334,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.0,0,0
+mol2vec/DecisionTree,f1_val,0.334,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.961038961038961,1,0
+mol2vec/DecisionTree,f1_val,0.334,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,1.0,1,0
+mol2vec/DecisionTree,f1_val,0.334,GABAPENTIN + MANNITOL,3446,6251,False,0,0.961038961038961,1,0
+mol2vec/DecisionTree,f1_val,0.334,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.0,0,1
+mol2vec/DecisionTree,f1_val,0.334,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.3333333333333333,0,1
+mol2vec/DecisionTree,f1_val,0.334,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.961038961038961,1,0
+mol2vec/DecisionTree,f1_val,0.334,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.0,0,1
+mol2vec/DecisionTree,f1_val,0.334,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,1.0,1,0
+mol2vec/DecisionTree,f1_val,0.334,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.961038961038961,1,0
+mol2vec/DecisionTree,f1_val,0.334,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.0,0,1
+mol2vec/DecisionTree,f1_val,0.334,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.0,0,1
+mol2vec/DecisionTree,f1_val,0.334,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.0,0,1
+mol2vec/DecisionTree,paper_f1_0.202,0.202,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.0,0,0
+mol2vec/DecisionTree,paper_f1_0.202,0.202,Phenytoin + Magnesium oxide,1775,14792,False,1,1.0,1,1
+mol2vec/DecisionTree,paper_f1_0.202,0.202,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,1.0,1,1
+mol2vec/DecisionTree,paper_f1_0.202,0.202,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.0,0,0
+mol2vec/DecisionTree,paper_f1_0.202,0.202,Fluvoxamine + Lactose,5324346,6134,False,1,0.0,0,0
+mol2vec/DecisionTree,paper_f1_0.202,0.202,Acetazolamide + Lactose,1986,6134,False,1,1.0,1,1
+mol2vec/DecisionTree,paper_f1_0.202,0.202,Acetazolamide + Mannitol,1986,6251,False,1,1.0,1,1
+mol2vec/DecisionTree,paper_f1_0.202,0.202,Phenytoin sodium + Lactose,657302,6134,False,1,0.0,0,0
+mol2vec/DecisionTree,paper_f1_0.202,0.202,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.0,0,0
+mol2vec/DecisionTree,paper_f1_0.202,0.202,Hydrocortisone + Magnesium stearate,5754,11177,True,1,1.0,1,1
+mol2vec/DecisionTree,paper_f1_0.202,0.202,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,1.0,1,1
+mol2vec/DecisionTree,paper_f1_0.202,0.202,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.0,0,0
+mol2vec/DecisionTree,paper_f1_0.202,0.202,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.961038961038961,1,0
+mol2vec/DecisionTree,paper_f1_0.202,0.202,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,1.0,1,0
+mol2vec/DecisionTree,paper_f1_0.202,0.202,GABAPENTIN + MANNITOL,3446,6251,False,0,0.961038961038961,1,0
+mol2vec/DecisionTree,paper_f1_0.202,0.202,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.0,0,1
+mol2vec/DecisionTree,paper_f1_0.202,0.202,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.3333333333333333,1,0
+mol2vec/DecisionTree,paper_f1_0.202,0.202,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.961038961038961,1,0
+mol2vec/DecisionTree,paper_f1_0.202,0.202,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.0,0,1
+mol2vec/DecisionTree,paper_f1_0.202,0.202,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,1.0,1,0
+mol2vec/DecisionTree,paper_f1_0.202,0.202,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.961038961038961,1,0
+mol2vec/DecisionTree,paper_f1_0.202,0.202,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.0,0,1
+mol2vec/DecisionTree,paper_f1_0.202,0.202,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.0,0,1
+mol2vec/DecisionTree,paper_f1_0.202,0.202,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.0,0,1
+mol2vec/DecisionTree,paper_ghost_0.020,0.02,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.0,0,0
+mol2vec/DecisionTree,paper_ghost_0.020,0.02,Phenytoin + Magnesium oxide,1775,14792,False,1,1.0,1,1
+mol2vec/DecisionTree,paper_ghost_0.020,0.02,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,1.0,1,1
+mol2vec/DecisionTree,paper_ghost_0.020,0.02,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.0,0,0
+mol2vec/DecisionTree,paper_ghost_0.020,0.02,Fluvoxamine + Lactose,5324346,6134,False,1,0.0,0,0
+mol2vec/DecisionTree,paper_ghost_0.020,0.02,Acetazolamide + Lactose,1986,6134,False,1,1.0,1,1
+mol2vec/DecisionTree,paper_ghost_0.020,0.02,Acetazolamide + Mannitol,1986,6251,False,1,1.0,1,1
+mol2vec/DecisionTree,paper_ghost_0.020,0.02,Phenytoin sodium + Lactose,657302,6134,False,1,0.0,0,0
+mol2vec/DecisionTree,paper_ghost_0.020,0.02,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.0,0,0
+mol2vec/DecisionTree,paper_ghost_0.020,0.02,Hydrocortisone + Magnesium stearate,5754,11177,True,1,1.0,1,1
+mol2vec/DecisionTree,paper_ghost_0.020,0.02,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,1.0,1,1
+mol2vec/DecisionTree,paper_ghost_0.020,0.02,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.0,0,0
+mol2vec/DecisionTree,paper_ghost_0.020,0.02,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.961038961038961,1,0
+mol2vec/DecisionTree,paper_ghost_0.020,0.02,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,1.0,1,0
+mol2vec/DecisionTree,paper_ghost_0.020,0.02,GABAPENTIN + MANNITOL,3446,6251,False,0,0.961038961038961,1,0
+mol2vec/DecisionTree,paper_ghost_0.020,0.02,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.0,0,1
+mol2vec/DecisionTree,paper_ghost_0.020,0.02,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.3333333333333333,1,0
+mol2vec/DecisionTree,paper_ghost_0.020,0.02,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.961038961038961,1,0
+mol2vec/DecisionTree,paper_ghost_0.020,0.02,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.0,0,1
+mol2vec/DecisionTree,paper_ghost_0.020,0.02,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,1.0,1,0
+mol2vec/DecisionTree,paper_ghost_0.020,0.02,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.961038961038961,1,0
+mol2vec/DecisionTree,paper_ghost_0.020,0.02,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.0,0,1
+mol2vec/DecisionTree,paper_ghost_0.020,0.02,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.0,0,1
+mol2vec/DecisionTree,paper_ghost_0.020,0.02,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.0,0,1
+mol2vec/SVM,default_0.5,0.5,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.2229229163035265,0,0
+mol2vec/SVM,default_0.5,0.5,Phenytoin + Magnesium oxide,1775,14792,False,1,0.38074264755348775,0,0
+mol2vec/SVM,default_0.5,0.5,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.2012816651008644,0,0
+mol2vec/SVM,default_0.5,0.5,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.06746003660281849,0,0
+mol2vec/SVM,default_0.5,0.5,Fluvoxamine + Lactose,5324346,6134,False,1,0.05060279186264248,0,0
+mol2vec/SVM,default_0.5,0.5,Acetazolamide + Lactose,1986,6134,False,1,0.046104785938496574,0,0
+mol2vec/SVM,default_0.5,0.5,Acetazolamide + Mannitol,1986,6251,False,1,0.11954939091050217,0,0
+mol2vec/SVM,default_0.5,0.5,Phenytoin sodium + Lactose,657302,6134,False,1,0.3808164564864072,0,0
+mol2vec/SVM,default_0.5,0.5,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.36400950063808396,0,0
+mol2vec/SVM,default_0.5,0.5,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.10469430239472512,0,0
+mol2vec/SVM,default_0.5,0.5,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.08220518696347538,0,0
+mol2vec/SVM,default_0.5,0.5,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.15361805989799138,0,0
+mol2vec/SVM,default_0.5,0.5,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.07140945329652369,0,1
+mol2vec/SVM,default_0.5,0.5,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.08390042781815152,0,1
+mol2vec/SVM,default_0.5,0.5,GABAPENTIN + MANNITOL,3446,6251,False,0,0.08199140860754668,0,1
+mol2vec/SVM,default_0.5,0.5,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.05947814378508851,0,1
+mol2vec/SVM,default_0.5,0.5,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.8073982503782956,1,0
+mol2vec/SVM,default_0.5,0.5,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.09952782168785332,0,1
+mol2vec/SVM,default_0.5,0.5,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.02482167605272945,0,1
+mol2vec/SVM,default_0.5,0.5,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.06832056150333819,0,1
+mol2vec/SVM,default_0.5,0.5,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.10004132886557408,0,1
+mol2vec/SVM,default_0.5,0.5,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.04205991295536833,0,1
+mol2vec/SVM,default_0.5,0.5,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.03676066490247278,0,1
+mol2vec/SVM,default_0.5,0.5,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.44047600690041466,0,1
+mol2vec/SVM,f1_val,0.085,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.2229229163035265,1,1
+mol2vec/SVM,f1_val,0.085,Phenytoin + Magnesium oxide,1775,14792,False,1,0.38074264755348775,1,1
+mol2vec/SVM,f1_val,0.085,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.2012816651008644,1,1
+mol2vec/SVM,f1_val,0.085,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.06746003660281849,0,0
+mol2vec/SVM,f1_val,0.085,Fluvoxamine + Lactose,5324346,6134,False,1,0.05060279186264248,0,0
+mol2vec/SVM,f1_val,0.085,Acetazolamide + Lactose,1986,6134,False,1,0.046104785938496574,0,0
+mol2vec/SVM,f1_val,0.085,Acetazolamide + Mannitol,1986,6251,False,1,0.11954939091050217,1,1
+mol2vec/SVM,f1_val,0.085,Phenytoin sodium + Lactose,657302,6134,False,1,0.3808164564864072,1,1
+mol2vec/SVM,f1_val,0.085,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.36400950063808396,1,1
+mol2vec/SVM,f1_val,0.085,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.10469430239472512,1,1
+mol2vec/SVM,f1_val,0.085,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.08220518696347538,0,0
+mol2vec/SVM,f1_val,0.085,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.15361805989799138,1,1
+mol2vec/SVM,f1_val,0.085,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.07140945329652369,0,1
+mol2vec/SVM,f1_val,0.085,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.08390042781815152,0,1
+mol2vec/SVM,f1_val,0.085,GABAPENTIN + MANNITOL,3446,6251,False,0,0.08199140860754668,0,1
+mol2vec/SVM,f1_val,0.085,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.05947814378508851,0,1
+mol2vec/SVM,f1_val,0.085,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.8073982503782956,1,0
+mol2vec/SVM,f1_val,0.085,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.09952782168785332,1,0
+mol2vec/SVM,f1_val,0.085,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.02482167605272945,0,1
+mol2vec/SVM,f1_val,0.085,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.06832056150333819,0,1
+mol2vec/SVM,f1_val,0.085,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.10004132886557408,1,0
+mol2vec/SVM,f1_val,0.085,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.04205991295536833,0,1
+mol2vec/SVM,f1_val,0.085,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.03676066490247278,0,1
+mol2vec/SVM,f1_val,0.085,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.44047600690041466,1,0
+mol2vec/SVM,paper_f1_0.202,0.202,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.2229229163035265,1,1
+mol2vec/SVM,paper_f1_0.202,0.202,Phenytoin + Magnesium oxide,1775,14792,False,1,0.38074264755348775,1,1
+mol2vec/SVM,paper_f1_0.202,0.202,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.2012816651008644,0,0
+mol2vec/SVM,paper_f1_0.202,0.202,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.06746003660281849,0,0
+mol2vec/SVM,paper_f1_0.202,0.202,Fluvoxamine + Lactose,5324346,6134,False,1,0.05060279186264248,0,0
+mol2vec/SVM,paper_f1_0.202,0.202,Acetazolamide + Lactose,1986,6134,False,1,0.046104785938496574,0,0
+mol2vec/SVM,paper_f1_0.202,0.202,Acetazolamide + Mannitol,1986,6251,False,1,0.11954939091050217,0,0
+mol2vec/SVM,paper_f1_0.202,0.202,Phenytoin sodium + Lactose,657302,6134,False,1,0.3808164564864072,1,1
+mol2vec/SVM,paper_f1_0.202,0.202,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.36400950063808396,1,1
+mol2vec/SVM,paper_f1_0.202,0.202,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.10469430239472512,0,0
+mol2vec/SVM,paper_f1_0.202,0.202,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.08220518696347538,0,0
+mol2vec/SVM,paper_f1_0.202,0.202,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.15361805989799138,0,0
+mol2vec/SVM,paper_f1_0.202,0.202,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.07140945329652369,0,1
+mol2vec/SVM,paper_f1_0.202,0.202,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.08390042781815152,0,1
+mol2vec/SVM,paper_f1_0.202,0.202,GABAPENTIN + MANNITOL,3446,6251,False,0,0.08199140860754668,0,1
+mol2vec/SVM,paper_f1_0.202,0.202,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.05947814378508851,0,1
+mol2vec/SVM,paper_f1_0.202,0.202,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.8073982503782956,1,0
+mol2vec/SVM,paper_f1_0.202,0.202,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.09952782168785332,0,1
+mol2vec/SVM,paper_f1_0.202,0.202,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.02482167605272945,0,1
+mol2vec/SVM,paper_f1_0.202,0.202,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.06832056150333819,0,1
+mol2vec/SVM,paper_f1_0.202,0.202,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.10004132886557408,0,1
+mol2vec/SVM,paper_f1_0.202,0.202,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.04205991295536833,0,1
+mol2vec/SVM,paper_f1_0.202,0.202,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.03676066490247278,0,1
+mol2vec/SVM,paper_f1_0.202,0.202,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.44047600690041466,1,0
+mol2vec/SVM,paper_ghost_0.020,0.02,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.2229229163035265,1,1
+mol2vec/SVM,paper_ghost_0.020,0.02,Phenytoin + Magnesium oxide,1775,14792,False,1,0.38074264755348775,1,1
+mol2vec/SVM,paper_ghost_0.020,0.02,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.2012816651008644,1,1
+mol2vec/SVM,paper_ghost_0.020,0.02,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.06746003660281849,1,1
+mol2vec/SVM,paper_ghost_0.020,0.02,Fluvoxamine + Lactose,5324346,6134,False,1,0.05060279186264248,1,1
+mol2vec/SVM,paper_ghost_0.020,0.02,Acetazolamide + Lactose,1986,6134,False,1,0.046104785938496574,1,1
+mol2vec/SVM,paper_ghost_0.020,0.02,Acetazolamide + Mannitol,1986,6251,False,1,0.11954939091050217,1,1
+mol2vec/SVM,paper_ghost_0.020,0.02,Phenytoin sodium + Lactose,657302,6134,False,1,0.3808164564864072,1,1
+mol2vec/SVM,paper_ghost_0.020,0.02,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.36400950063808396,1,1
+mol2vec/SVM,paper_ghost_0.020,0.02,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.10469430239472512,1,1
+mol2vec/SVM,paper_ghost_0.020,0.02,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.08220518696347538,1,1
+mol2vec/SVM,paper_ghost_0.020,0.02,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.15361805989799138,1,1
+mol2vec/SVM,paper_ghost_0.020,0.02,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.07140945329652369,1,0
+mol2vec/SVM,paper_ghost_0.020,0.02,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.08390042781815152,1,0
+mol2vec/SVM,paper_ghost_0.020,0.02,GABAPENTIN + MANNITOL,3446,6251,False,0,0.08199140860754668,1,0
+mol2vec/SVM,paper_ghost_0.020,0.02,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.05947814378508851,1,0
+mol2vec/SVM,paper_ghost_0.020,0.02,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.8073982503782956,1,0
+mol2vec/SVM,paper_ghost_0.020,0.02,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.09952782168785332,1,0
+mol2vec/SVM,paper_ghost_0.020,0.02,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.02482167605272945,1,0
+mol2vec/SVM,paper_ghost_0.020,0.02,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.06832056150333819,1,0
+mol2vec/SVM,paper_ghost_0.020,0.02,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.10004132886557408,1,0
+mol2vec/SVM,paper_ghost_0.020,0.02,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.04205991295536833,1,0
+mol2vec/SVM,paper_ghost_0.020,0.02,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.03676066490247278,1,0
+mol2vec/SVM,paper_ghost_0.020,0.02,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.44047600690041466,1,0
+mol2vec/MLP,default_0.5,0.5,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.8327830837282171,1,1
+mol2vec/MLP,default_0.5,0.5,Phenytoin + Magnesium oxide,1775,14792,False,1,0.7573354126021721,1,1
+mol2vec/MLP,default_0.5,0.5,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.08441522033773925,0,0
+mol2vec/MLP,default_0.5,0.5,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.954585194612235,1,1
+mol2vec/MLP,default_0.5,0.5,Fluvoxamine + Lactose,5324346,6134,False,1,0.028045014762859307,0,0
+mol2vec/MLP,default_0.5,0.5,Acetazolamide + Lactose,1986,6134,False,1,0.2468625741475217,0,0
+mol2vec/MLP,default_0.5,0.5,Acetazolamide + Mannitol,1986,6251,False,1,0.39882447006289207,0,0
+mol2vec/MLP,default_0.5,0.5,Phenytoin sodium + Lactose,657302,6134,False,1,0.7868679986872337,1,1
+mol2vec/MLP,default_0.5,0.5,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.9987571678681545,1,1
+mol2vec/MLP,default_0.5,0.5,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.9938361345250974,1,1
+mol2vec/MLP,default_0.5,0.5,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.993760106410347,1,1
+mol2vec/MLP,default_0.5,0.5,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.8980330644214527,1,1
+mol2vec/MLP,default_0.5,0.5,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.7850092504587918,1,0
+mol2vec/MLP,default_0.5,0.5,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.014211898026531814,0,1
+mol2vec/MLP,default_0.5,0.5,GABAPENTIN + MANNITOL,3446,6251,False,0,0.8184262550520316,1,0
+mol2vec/MLP,default_0.5,0.5,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.061027498925507906,0,1
+mol2vec/MLP,default_0.5,0.5,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.5912713811919433,1,0
+mol2vec/MLP,default_0.5,0.5,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.9080126150901145,1,0
+mol2vec/MLP,default_0.5,0.5,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.003960866756474071,0,1
+mol2vec/MLP,default_0.5,0.5,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.014950354781819853,0,1
+mol2vec/MLP,default_0.5,0.5,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.9572896117710377,1,0
+mol2vec/MLP,default_0.5,0.5,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.1443657755796497,0,1
+mol2vec/MLP,default_0.5,0.5,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.0063530565596773845,0,1
+mol2vec/MLP,default_0.5,0.5,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.8709397914929355,1,0
+mol2vec/MLP,f1_val,0.088,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.8327830837282171,1,1
+mol2vec/MLP,f1_val,0.088,Phenytoin + Magnesium oxide,1775,14792,False,1,0.7573354126021721,1,1
+mol2vec/MLP,f1_val,0.088,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.08441522033773925,0,0
+mol2vec/MLP,f1_val,0.088,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.954585194612235,1,1
+mol2vec/MLP,f1_val,0.088,Fluvoxamine + Lactose,5324346,6134,False,1,0.028045014762859307,0,0
+mol2vec/MLP,f1_val,0.088,Acetazolamide + Lactose,1986,6134,False,1,0.2468625741475217,1,1
+mol2vec/MLP,f1_val,0.088,Acetazolamide + Mannitol,1986,6251,False,1,0.39882447006289207,1,1
+mol2vec/MLP,f1_val,0.088,Phenytoin sodium + Lactose,657302,6134,False,1,0.7868679986872337,1,1
+mol2vec/MLP,f1_val,0.088,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.9987571678681545,1,1
+mol2vec/MLP,f1_val,0.088,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.9938361345250974,1,1
+mol2vec/MLP,f1_val,0.088,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.993760106410347,1,1
+mol2vec/MLP,f1_val,0.088,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.8980330644214527,1,1
+mol2vec/MLP,f1_val,0.088,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.7850092504587918,1,0
+mol2vec/MLP,f1_val,0.088,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.014211898026531814,0,1
+mol2vec/MLP,f1_val,0.088,GABAPENTIN + MANNITOL,3446,6251,False,0,0.8184262550520316,1,0
+mol2vec/MLP,f1_val,0.088,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.061027498925507906,0,1
+mol2vec/MLP,f1_val,0.088,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.5912713811919433,1,0
+mol2vec/MLP,f1_val,0.088,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.9080126150901145,1,0
+mol2vec/MLP,f1_val,0.088,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.003960866756474071,0,1
+mol2vec/MLP,f1_val,0.088,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.014950354781819853,0,1
+mol2vec/MLP,f1_val,0.088,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.9572896117710377,1,0
+mol2vec/MLP,f1_val,0.088,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.1443657755796497,1,0
+mol2vec/MLP,f1_val,0.088,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.0063530565596773845,0,1
+mol2vec/MLP,f1_val,0.088,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.8709397914929355,1,0
+mol2vec/MLP,paper_f1_0.202,0.202,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.8327830837282171,1,1
+mol2vec/MLP,paper_f1_0.202,0.202,Phenytoin + Magnesium oxide,1775,14792,False,1,0.7573354126021721,1,1
+mol2vec/MLP,paper_f1_0.202,0.202,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.08441522033773925,0,0
+mol2vec/MLP,paper_f1_0.202,0.202,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.954585194612235,1,1
+mol2vec/MLP,paper_f1_0.202,0.202,Fluvoxamine + Lactose,5324346,6134,False,1,0.028045014762859307,0,0
+mol2vec/MLP,paper_f1_0.202,0.202,Acetazolamide + Lactose,1986,6134,False,1,0.2468625741475217,1,1
+mol2vec/MLP,paper_f1_0.202,0.202,Acetazolamide + Mannitol,1986,6251,False,1,0.39882447006289207,1,1
+mol2vec/MLP,paper_f1_0.202,0.202,Phenytoin sodium + Lactose,657302,6134,False,1,0.7868679986872337,1,1
+mol2vec/MLP,paper_f1_0.202,0.202,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.9987571678681545,1,1
+mol2vec/MLP,paper_f1_0.202,0.202,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.9938361345250974,1,1
+mol2vec/MLP,paper_f1_0.202,0.202,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.993760106410347,1,1
+mol2vec/MLP,paper_f1_0.202,0.202,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.8980330644214527,1,1
+mol2vec/MLP,paper_f1_0.202,0.202,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.7850092504587918,1,0
+mol2vec/MLP,paper_f1_0.202,0.202,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.014211898026531814,0,1
+mol2vec/MLP,paper_f1_0.202,0.202,GABAPENTIN + MANNITOL,3446,6251,False,0,0.8184262550520316,1,0
+mol2vec/MLP,paper_f1_0.202,0.202,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.061027498925507906,0,1
+mol2vec/MLP,paper_f1_0.202,0.202,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.5912713811919433,1,0
+mol2vec/MLP,paper_f1_0.202,0.202,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.9080126150901145,1,0
+mol2vec/MLP,paper_f1_0.202,0.202,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.003960866756474071,0,1
+mol2vec/MLP,paper_f1_0.202,0.202,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.014950354781819853,0,1
+mol2vec/MLP,paper_f1_0.202,0.202,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.9572896117710377,1,0
+mol2vec/MLP,paper_f1_0.202,0.202,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.1443657755796497,0,1
+mol2vec/MLP,paper_f1_0.202,0.202,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.0063530565596773845,0,1
+mol2vec/MLP,paper_f1_0.202,0.202,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.8709397914929355,1,0
+mol2vec/MLP,paper_ghost_0.020,0.02,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.8327830837282171,1,1
+mol2vec/MLP,paper_ghost_0.020,0.02,Phenytoin + Magnesium oxide,1775,14792,False,1,0.7573354126021721,1,1
+mol2vec/MLP,paper_ghost_0.020,0.02,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.08441522033773925,1,1
+mol2vec/MLP,paper_ghost_0.020,0.02,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.954585194612235,1,1
+mol2vec/MLP,paper_ghost_0.020,0.02,Fluvoxamine + Lactose,5324346,6134,False,1,0.028045014762859307,1,1
+mol2vec/MLP,paper_ghost_0.020,0.02,Acetazolamide + Lactose,1986,6134,False,1,0.2468625741475217,1,1
+mol2vec/MLP,paper_ghost_0.020,0.02,Acetazolamide + Mannitol,1986,6251,False,1,0.39882447006289207,1,1
+mol2vec/MLP,paper_ghost_0.020,0.02,Phenytoin sodium + Lactose,657302,6134,False,1,0.7868679986872337,1,1
+mol2vec/MLP,paper_ghost_0.020,0.02,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.9987571678681545,1,1
+mol2vec/MLP,paper_ghost_0.020,0.02,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.9938361345250974,1,1
+mol2vec/MLP,paper_ghost_0.020,0.02,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.993760106410347,1,1
+mol2vec/MLP,paper_ghost_0.020,0.02,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.8980330644214527,1,1
+mol2vec/MLP,paper_ghost_0.020,0.02,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.7850092504587918,1,0
+mol2vec/MLP,paper_ghost_0.020,0.02,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.014211898026531814,0,1
+mol2vec/MLP,paper_ghost_0.020,0.02,GABAPENTIN + MANNITOL,3446,6251,False,0,0.8184262550520316,1,0
+mol2vec/MLP,paper_ghost_0.020,0.02,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.061027498925507906,1,0
+mol2vec/MLP,paper_ghost_0.020,0.02,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.5912713811919433,1,0
+mol2vec/MLP,paper_ghost_0.020,0.02,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.9080126150901145,1,0
+mol2vec/MLP,paper_ghost_0.020,0.02,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.003960866756474071,0,1
+mol2vec/MLP,paper_ghost_0.020,0.02,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.014950354781819853,0,1
+mol2vec/MLP,paper_ghost_0.020,0.02,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.9572896117710377,1,0
+mol2vec/MLP,paper_ghost_0.020,0.02,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.1443657755796497,1,0
+mol2vec/MLP,paper_ghost_0.020,0.02,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.0063530565596773845,0,1
+mol2vec/MLP,paper_ghost_0.020,0.02,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.8709397914929355,1,0
+mol2vec/kNN,default_0.5,0.5,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.3333333333333333,0,0
+mol2vec/kNN,default_0.5,0.5,Phenytoin + Magnesium oxide,1775,14792,False,1,0.6666666666666666,1,1
+mol2vec/kNN,default_0.5,0.5,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,1.0,1,1
+mol2vec/kNN,default_0.5,0.5,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.0,0,0
+mol2vec/kNN,default_0.5,0.5,Fluvoxamine + Lactose,5324346,6134,False,1,0.0,0,0
+mol2vec/kNN,default_0.5,0.5,Acetazolamide + Lactose,1986,6134,False,1,0.6666666666666666,1,1
+mol2vec/kNN,default_0.5,0.5,Acetazolamide + Mannitol,1986,6251,False,1,0.6666666666666666,1,1
+mol2vec/kNN,default_0.5,0.5,Phenytoin sodium + Lactose,657302,6134,False,1,1.0,1,1
+mol2vec/kNN,default_0.5,0.5,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,1.0,1,1
+mol2vec/kNN,default_0.5,0.5,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.6666666666666666,1,1
+mol2vec/kNN,default_0.5,0.5,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.3333333333333333,0,0
+mol2vec/kNN,default_0.5,0.5,Quercetin + Magnesium carbonate,5280343,11029,False,1,1.0,1,1
+mol2vec/kNN,default_0.5,0.5,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.6666666666666666,1,0
+mol2vec/kNN,default_0.5,0.5,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.6666666666666666,1,0
+mol2vec/kNN,default_0.5,0.5,GABAPENTIN + MANNITOL,3446,6251,False,0,0.3333333333333333,0,1
+mol2vec/kNN,default_0.5,0.5,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.0,0,1
+mol2vec/kNN,default_0.5,0.5,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,1.0,1,0
+mol2vec/kNN,default_0.5,0.5,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,1.0,1,0
+mol2vec/kNN,default_0.5,0.5,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.0,0,1
+mol2vec/kNN,default_0.5,0.5,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.0,0,1
+mol2vec/kNN,default_0.5,0.5,LEVETIRACETAM + TALC,5284583,165411828,False,0,1.0,1,0
+mol2vec/kNN,default_0.5,0.5,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.0,0,1
+mol2vec/kNN,default_0.5,0.5,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.0,0,1
+mol2vec/kNN,default_0.5,0.5,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.6666666666666666,1,0
+mol2vec/kNN,f1_val,0.667,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.3333333333333333,0,0
+mol2vec/kNN,f1_val,0.667,Phenytoin + Magnesium oxide,1775,14792,False,1,0.6666666666666666,0,0
+mol2vec/kNN,f1_val,0.667,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,1.0,1,1
+mol2vec/kNN,f1_val,0.667,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.0,0,0
+mol2vec/kNN,f1_val,0.667,Fluvoxamine + Lactose,5324346,6134,False,1,0.0,0,0
+mol2vec/kNN,f1_val,0.667,Acetazolamide + Lactose,1986,6134,False,1,0.6666666666666666,0,0
+mol2vec/kNN,f1_val,0.667,Acetazolamide + Mannitol,1986,6251,False,1,0.6666666666666666,0,0
+mol2vec/kNN,f1_val,0.667,Phenytoin sodium + Lactose,657302,6134,False,1,1.0,1,1
+mol2vec/kNN,f1_val,0.667,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,1.0,1,1
+mol2vec/kNN,f1_val,0.667,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.6666666666666666,0,0
+mol2vec/kNN,f1_val,0.667,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.3333333333333333,0,0
+mol2vec/kNN,f1_val,0.667,Quercetin + Magnesium carbonate,5280343,11029,False,1,1.0,1,1
+mol2vec/kNN,f1_val,0.667,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.6666666666666666,0,1
+mol2vec/kNN,f1_val,0.667,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.6666666666666666,0,1
+mol2vec/kNN,f1_val,0.667,GABAPENTIN + MANNITOL,3446,6251,False,0,0.3333333333333333,0,1
+mol2vec/kNN,f1_val,0.667,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.0,0,1
+mol2vec/kNN,f1_val,0.667,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,1.0,1,0
+mol2vec/kNN,f1_val,0.667,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,1.0,1,0
+mol2vec/kNN,f1_val,0.667,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.0,0,1
+mol2vec/kNN,f1_val,0.667,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.0,0,1
+mol2vec/kNN,f1_val,0.667,LEVETIRACETAM + TALC,5284583,165411828,False,0,1.0,1,0
+mol2vec/kNN,f1_val,0.667,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.0,0,1
+mol2vec/kNN,f1_val,0.667,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.0,0,1
+mol2vec/kNN,f1_val,0.667,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.6666666666666666,0,1
+mol2vec/kNN,paper_f1_0.202,0.202,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.3333333333333333,1,1
+mol2vec/kNN,paper_f1_0.202,0.202,Phenytoin + Magnesium oxide,1775,14792,False,1,0.6666666666666666,1,1
+mol2vec/kNN,paper_f1_0.202,0.202,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,1.0,1,1
+mol2vec/kNN,paper_f1_0.202,0.202,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.0,0,0
+mol2vec/kNN,paper_f1_0.202,0.202,Fluvoxamine + Lactose,5324346,6134,False,1,0.0,0,0
+mol2vec/kNN,paper_f1_0.202,0.202,Acetazolamide + Lactose,1986,6134,False,1,0.6666666666666666,1,1
+mol2vec/kNN,paper_f1_0.202,0.202,Acetazolamide + Mannitol,1986,6251,False,1,0.6666666666666666,1,1
+mol2vec/kNN,paper_f1_0.202,0.202,Phenytoin sodium + Lactose,657302,6134,False,1,1.0,1,1
+mol2vec/kNN,paper_f1_0.202,0.202,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,1.0,1,1
+mol2vec/kNN,paper_f1_0.202,0.202,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.6666666666666666,1,1
+mol2vec/kNN,paper_f1_0.202,0.202,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.3333333333333333,1,1
+mol2vec/kNN,paper_f1_0.202,0.202,Quercetin + Magnesium carbonate,5280343,11029,False,1,1.0,1,1
+mol2vec/kNN,paper_f1_0.202,0.202,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.6666666666666666,1,0
+mol2vec/kNN,paper_f1_0.202,0.202,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.6666666666666666,1,0
+mol2vec/kNN,paper_f1_0.202,0.202,GABAPENTIN + MANNITOL,3446,6251,False,0,0.3333333333333333,1,0
+mol2vec/kNN,paper_f1_0.202,0.202,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.0,0,1
+mol2vec/kNN,paper_f1_0.202,0.202,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,1.0,1,0
+mol2vec/kNN,paper_f1_0.202,0.202,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,1.0,1,0
+mol2vec/kNN,paper_f1_0.202,0.202,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.0,0,1
+mol2vec/kNN,paper_f1_0.202,0.202,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.0,0,1
+mol2vec/kNN,paper_f1_0.202,0.202,LEVETIRACETAM + TALC,5284583,165411828,False,0,1.0,1,0
+mol2vec/kNN,paper_f1_0.202,0.202,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.0,0,1
+mol2vec/kNN,paper_f1_0.202,0.202,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.0,0,1
+mol2vec/kNN,paper_f1_0.202,0.202,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.6666666666666666,1,0
+mol2vec/kNN,paper_ghost_0.020,0.02,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.3333333333333333,1,1
+mol2vec/kNN,paper_ghost_0.020,0.02,Phenytoin + Magnesium oxide,1775,14792,False,1,0.6666666666666666,1,1
+mol2vec/kNN,paper_ghost_0.020,0.02,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,1.0,1,1
+mol2vec/kNN,paper_ghost_0.020,0.02,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.0,0,0
+mol2vec/kNN,paper_ghost_0.020,0.02,Fluvoxamine + Lactose,5324346,6134,False,1,0.0,0,0
+mol2vec/kNN,paper_ghost_0.020,0.02,Acetazolamide + Lactose,1986,6134,False,1,0.6666666666666666,1,1
+mol2vec/kNN,paper_ghost_0.020,0.02,Acetazolamide + Mannitol,1986,6251,False,1,0.6666666666666666,1,1
+mol2vec/kNN,paper_ghost_0.020,0.02,Phenytoin sodium + Lactose,657302,6134,False,1,1.0,1,1
+mol2vec/kNN,paper_ghost_0.020,0.02,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,1.0,1,1
+mol2vec/kNN,paper_ghost_0.020,0.02,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.6666666666666666,1,1
+mol2vec/kNN,paper_ghost_0.020,0.02,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.3333333333333333,1,1
+mol2vec/kNN,paper_ghost_0.020,0.02,Quercetin + Magnesium carbonate,5280343,11029,False,1,1.0,1,1
+mol2vec/kNN,paper_ghost_0.020,0.02,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.6666666666666666,1,0
+mol2vec/kNN,paper_ghost_0.020,0.02,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.6666666666666666,1,0
+mol2vec/kNN,paper_ghost_0.020,0.02,GABAPENTIN + MANNITOL,3446,6251,False,0,0.3333333333333333,1,0
+mol2vec/kNN,paper_ghost_0.020,0.02,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.0,0,1
+mol2vec/kNN,paper_ghost_0.020,0.02,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,1.0,1,0
+mol2vec/kNN,paper_ghost_0.020,0.02,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,1.0,1,0
+mol2vec/kNN,paper_ghost_0.020,0.02,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.0,0,1
+mol2vec/kNN,paper_ghost_0.020,0.02,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.0,0,1
+mol2vec/kNN,paper_ghost_0.020,0.02,LEVETIRACETAM + TALC,5284583,165411828,False,0,1.0,1,0
+mol2vec/kNN,paper_ghost_0.020,0.02,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.0,0,1
+mol2vec/kNN,paper_ghost_0.020,0.02,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.0,0,1
+mol2vec/kNN,paper_ghost_0.020,0.02,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.6666666666666666,1,0
+mol2vec/LogisticRegression,default_0.5,0.5,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.7825283132051324,1,1
+mol2vec/LogisticRegression,default_0.5,0.5,Phenytoin + Magnesium oxide,1775,14792,False,1,0.5327245129090534,1,1
+mol2vec/LogisticRegression,default_0.5,0.5,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.3935934388522652,0,0
+mol2vec/LogisticRegression,default_0.5,0.5,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.2891719148576238,0,0
+mol2vec/LogisticRegression,default_0.5,0.5,Fluvoxamine + Lactose,5324346,6134,False,1,0.04717633979913905,0,0
+mol2vec/LogisticRegression,default_0.5,0.5,Acetazolamide + Lactose,1986,6134,False,1,0.5495487593892114,1,1
+mol2vec/LogisticRegression,default_0.5,0.5,Acetazolamide + Mannitol,1986,6251,False,1,0.8589461943942023,1,1
+mol2vec/LogisticRegression,default_0.5,0.5,Phenytoin sodium + Lactose,657302,6134,False,1,0.4187242772963501,0,0
+mol2vec/LogisticRegression,default_0.5,0.5,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.7787944990106845,1,1
+mol2vec/LogisticRegression,default_0.5,0.5,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.684272904231218,1,1
+mol2vec/LogisticRegression,default_0.5,0.5,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.013056261277147926,0,0
+mol2vec/LogisticRegression,default_0.5,0.5,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.49050525841218884,0,0
+mol2vec/LogisticRegression,default_0.5,0.5,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.8915269918399915,1,0
+mol2vec/LogisticRegression,default_0.5,0.5,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.40237042203956286,0,1
+mol2vec/LogisticRegression,default_0.5,0.5,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9521554103790923,1,0
+mol2vec/LogisticRegression,default_0.5,0.5,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.17490171920354217,0,1
+mol2vec/LogisticRegression,default_0.5,0.5,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.7852566257121429,1,0
+mol2vec/LogisticRegression,default_0.5,0.5,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.5715044134635137,1,0
+mol2vec/LogisticRegression,default_0.5,0.5,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.004818509007309641,0,1
+mol2vec/LogisticRegression,default_0.5,0.5,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.1724500446445228,0,1
+mol2vec/LogisticRegression,default_0.5,0.5,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.7032232597220447,1,0
+mol2vec/LogisticRegression,default_0.5,0.5,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.14749563834685445,0,1
+mol2vec/LogisticRegression,default_0.5,0.5,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.06318994139916076,0,1
+mol2vec/LogisticRegression,default_0.5,0.5,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.7879109414891706,1,0
+mol2vec/LogisticRegression,f1_val,0.319,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.7825283132051324,1,1
+mol2vec/LogisticRegression,f1_val,0.319,Phenytoin + Magnesium oxide,1775,14792,False,1,0.5327245129090534,1,1
+mol2vec/LogisticRegression,f1_val,0.319,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.3935934388522652,1,1
+mol2vec/LogisticRegression,f1_val,0.319,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.2891719148576238,0,0
+mol2vec/LogisticRegression,f1_val,0.319,Fluvoxamine + Lactose,5324346,6134,False,1,0.04717633979913905,0,0
+mol2vec/LogisticRegression,f1_val,0.319,Acetazolamide + Lactose,1986,6134,False,1,0.5495487593892114,1,1
+mol2vec/LogisticRegression,f1_val,0.319,Acetazolamide + Mannitol,1986,6251,False,1,0.8589461943942023,1,1
+mol2vec/LogisticRegression,f1_val,0.319,Phenytoin sodium + Lactose,657302,6134,False,1,0.4187242772963501,1,1
+mol2vec/LogisticRegression,f1_val,0.319,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.7787944990106845,1,1
+mol2vec/LogisticRegression,f1_val,0.319,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.684272904231218,1,1
+mol2vec/LogisticRegression,f1_val,0.319,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.013056261277147926,0,0
+mol2vec/LogisticRegression,f1_val,0.319,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.49050525841218884,1,1
+mol2vec/LogisticRegression,f1_val,0.319,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.8915269918399915,1,0
+mol2vec/LogisticRegression,f1_val,0.319,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.40237042203956286,1,0
+mol2vec/LogisticRegression,f1_val,0.319,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9521554103790923,1,0
+mol2vec/LogisticRegression,f1_val,0.319,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.17490171920354217,0,1
+mol2vec/LogisticRegression,f1_val,0.319,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.7852566257121429,1,0
+mol2vec/LogisticRegression,f1_val,0.319,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.5715044134635137,1,0
+mol2vec/LogisticRegression,f1_val,0.319,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.004818509007309641,0,1
+mol2vec/LogisticRegression,f1_val,0.319,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.1724500446445228,0,1
+mol2vec/LogisticRegression,f1_val,0.319,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.7032232597220447,1,0
+mol2vec/LogisticRegression,f1_val,0.319,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.14749563834685445,0,1
+mol2vec/LogisticRegression,f1_val,0.319,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.06318994139916076,0,1
+mol2vec/LogisticRegression,f1_val,0.319,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.7879109414891706,1,0
+mol2vec/LogisticRegression,paper_f1_0.202,0.202,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.7825283132051324,1,1
+mol2vec/LogisticRegression,paper_f1_0.202,0.202,Phenytoin + Magnesium oxide,1775,14792,False,1,0.5327245129090534,1,1
+mol2vec/LogisticRegression,paper_f1_0.202,0.202,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.3935934388522652,1,1
+mol2vec/LogisticRegression,paper_f1_0.202,0.202,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.2891719148576238,1,1
+mol2vec/LogisticRegression,paper_f1_0.202,0.202,Fluvoxamine + Lactose,5324346,6134,False,1,0.04717633979913905,0,0
+mol2vec/LogisticRegression,paper_f1_0.202,0.202,Acetazolamide + Lactose,1986,6134,False,1,0.5495487593892114,1,1
+mol2vec/LogisticRegression,paper_f1_0.202,0.202,Acetazolamide + Mannitol,1986,6251,False,1,0.8589461943942023,1,1
+mol2vec/LogisticRegression,paper_f1_0.202,0.202,Phenytoin sodium + Lactose,657302,6134,False,1,0.4187242772963501,1,1
+mol2vec/LogisticRegression,paper_f1_0.202,0.202,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.7787944990106845,1,1
+mol2vec/LogisticRegression,paper_f1_0.202,0.202,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.684272904231218,1,1
+mol2vec/LogisticRegression,paper_f1_0.202,0.202,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.013056261277147926,0,0
+mol2vec/LogisticRegression,paper_f1_0.202,0.202,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.49050525841218884,1,1
+mol2vec/LogisticRegression,paper_f1_0.202,0.202,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.8915269918399915,1,0
+mol2vec/LogisticRegression,paper_f1_0.202,0.202,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.40237042203956286,1,0
+mol2vec/LogisticRegression,paper_f1_0.202,0.202,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9521554103790923,1,0
+mol2vec/LogisticRegression,paper_f1_0.202,0.202,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.17490171920354217,0,1
+mol2vec/LogisticRegression,paper_f1_0.202,0.202,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.7852566257121429,1,0
+mol2vec/LogisticRegression,paper_f1_0.202,0.202,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.5715044134635137,1,0
+mol2vec/LogisticRegression,paper_f1_0.202,0.202,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.004818509007309641,0,1
+mol2vec/LogisticRegression,paper_f1_0.202,0.202,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.1724500446445228,0,1
+mol2vec/LogisticRegression,paper_f1_0.202,0.202,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.7032232597220447,1,0
+mol2vec/LogisticRegression,paper_f1_0.202,0.202,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.14749563834685445,0,1
+mol2vec/LogisticRegression,paper_f1_0.202,0.202,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.06318994139916076,0,1
+mol2vec/LogisticRegression,paper_f1_0.202,0.202,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.7879109414891706,1,0
+mol2vec/LogisticRegression,paper_ghost_0.020,0.02,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.7825283132051324,1,1
+mol2vec/LogisticRegression,paper_ghost_0.020,0.02,Phenytoin + Magnesium oxide,1775,14792,False,1,0.5327245129090534,1,1
+mol2vec/LogisticRegression,paper_ghost_0.020,0.02,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.3935934388522652,1,1
+mol2vec/LogisticRegression,paper_ghost_0.020,0.02,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.2891719148576238,1,1
+mol2vec/LogisticRegression,paper_ghost_0.020,0.02,Fluvoxamine + Lactose,5324346,6134,False,1,0.04717633979913905,1,1
+mol2vec/LogisticRegression,paper_ghost_0.020,0.02,Acetazolamide + Lactose,1986,6134,False,1,0.5495487593892114,1,1
+mol2vec/LogisticRegression,paper_ghost_0.020,0.02,Acetazolamide + Mannitol,1986,6251,False,1,0.8589461943942023,1,1
+mol2vec/LogisticRegression,paper_ghost_0.020,0.02,Phenytoin sodium + Lactose,657302,6134,False,1,0.4187242772963501,1,1
+mol2vec/LogisticRegression,paper_ghost_0.020,0.02,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.7787944990106845,1,1
+mol2vec/LogisticRegression,paper_ghost_0.020,0.02,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.684272904231218,1,1
+mol2vec/LogisticRegression,paper_ghost_0.020,0.02,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.013056261277147926,0,0
+mol2vec/LogisticRegression,paper_ghost_0.020,0.02,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.49050525841218884,1,1
+mol2vec/LogisticRegression,paper_ghost_0.020,0.02,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.8915269918399915,1,0
+mol2vec/LogisticRegression,paper_ghost_0.020,0.02,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.40237042203956286,1,0
+mol2vec/LogisticRegression,paper_ghost_0.020,0.02,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9521554103790923,1,0
+mol2vec/LogisticRegression,paper_ghost_0.020,0.02,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.17490171920354217,1,0
+mol2vec/LogisticRegression,paper_ghost_0.020,0.02,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.7852566257121429,1,0
+mol2vec/LogisticRegression,paper_ghost_0.020,0.02,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.5715044134635137,1,0
+mol2vec/LogisticRegression,paper_ghost_0.020,0.02,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.004818509007309641,0,1
+mol2vec/LogisticRegression,paper_ghost_0.020,0.02,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.1724500446445228,1,0
+mol2vec/LogisticRegression,paper_ghost_0.020,0.02,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.7032232597220447,1,0
+mol2vec/LogisticRegression,paper_ghost_0.020,0.02,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.14749563834685445,1,0
+mol2vec/LogisticRegression,paper_ghost_0.020,0.02,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.06318994139916076,1,0
+mol2vec/LogisticRegression,paper_ghost_0.020,0.02,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.7879109414891706,1,0
+mol2vec/XGBoost,default_0.5,0.5,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.6896654963493347,1,1
+mol2vec/XGBoost,default_0.5,0.5,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9270200133323669,1,1
+mol2vec/XGBoost,default_0.5,0.5,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.9895870685577393,1,1
+mol2vec/XGBoost,default_0.5,0.5,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.9350915551185608,1,1
+mol2vec/XGBoost,default_0.5,0.5,Fluvoxamine + Lactose,5324346,6134,False,1,0.014370066113770008,0,0
+mol2vec/XGBoost,default_0.5,0.5,Acetazolamide + Lactose,1986,6134,False,1,0.299976110458374,0,0
+mol2vec/XGBoost,default_0.5,0.5,Acetazolamide + Mannitol,1986,6251,False,1,0.3125525414943695,0,0
+mol2vec/XGBoost,default_0.5,0.5,Phenytoin sodium + Lactose,657302,6134,False,1,0.019365472719073296,0,0
+mol2vec/XGBoost,default_0.5,0.5,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.13562031090259552,0,0
+mol2vec/XGBoost,default_0.5,0.5,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.2984369993209839,0,0
+mol2vec/XGBoost,default_0.5,0.5,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.13335929811000824,0,0
+mol2vec/XGBoost,default_0.5,0.5,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.15375757217407227,0,0
+mol2vec/XGBoost,default_0.5,0.5,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.9928460717201233,1,0
+mol2vec/XGBoost,default_0.5,0.5,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.24184389412403107,0,1
+mol2vec/XGBoost,default_0.5,0.5,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9925619959831238,1,0
+mol2vec/XGBoost,default_0.5,0.5,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.00036303087836131454,0,1
+mol2vec/XGBoost,default_0.5,0.5,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.6838828325271606,1,0
+mol2vec/XGBoost,default_0.5,0.5,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.9636235237121582,1,0
+mol2vec/XGBoost,default_0.5,0.5,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.0003483235486783087,0,1
+mol2vec/XGBoost,default_0.5,0.5,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.49372097849845886,0,1
+mol2vec/XGBoost,default_0.5,0.5,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.7788411378860474,1,0
+mol2vec/XGBoost,default_0.5,0.5,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.003422713605687022,0,1
+mol2vec/XGBoost,default_0.5,0.5,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.0023979670368134975,0,1
+mol2vec/XGBoost,default_0.5,0.5,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.06054193526506424,0,1
+mol2vec/XGBoost,f1_val,0.577,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.6896654963493347,1,1
+mol2vec/XGBoost,f1_val,0.577,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9270200133323669,1,1
+mol2vec/XGBoost,f1_val,0.577,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.9895870685577393,1,1
+mol2vec/XGBoost,f1_val,0.577,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.9350915551185608,1,1
+mol2vec/XGBoost,f1_val,0.577,Fluvoxamine + Lactose,5324346,6134,False,1,0.014370066113770008,0,0
+mol2vec/XGBoost,f1_val,0.577,Acetazolamide + Lactose,1986,6134,False,1,0.299976110458374,0,0
+mol2vec/XGBoost,f1_val,0.577,Acetazolamide + Mannitol,1986,6251,False,1,0.3125525414943695,0,0
+mol2vec/XGBoost,f1_val,0.577,Phenytoin sodium + Lactose,657302,6134,False,1,0.019365472719073296,0,0
+mol2vec/XGBoost,f1_val,0.577,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.13562031090259552,0,0
+mol2vec/XGBoost,f1_val,0.577,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.2984369993209839,0,0
+mol2vec/XGBoost,f1_val,0.577,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.13335929811000824,0,0
+mol2vec/XGBoost,f1_val,0.577,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.15375757217407227,0,0
+mol2vec/XGBoost,f1_val,0.577,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.9928460717201233,1,0
+mol2vec/XGBoost,f1_val,0.577,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.24184389412403107,0,1
+mol2vec/XGBoost,f1_val,0.577,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9925619959831238,1,0
+mol2vec/XGBoost,f1_val,0.577,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.00036303087836131454,0,1
+mol2vec/XGBoost,f1_val,0.577,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.6838828325271606,1,0
+mol2vec/XGBoost,f1_val,0.577,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.9636235237121582,1,0
+mol2vec/XGBoost,f1_val,0.577,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.0003483235486783087,0,1
+mol2vec/XGBoost,f1_val,0.577,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.49372097849845886,0,1
+mol2vec/XGBoost,f1_val,0.577,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.7788411378860474,1,0
+mol2vec/XGBoost,f1_val,0.577,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.003422713605687022,0,1
+mol2vec/XGBoost,f1_val,0.577,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.0023979670368134975,0,1
+mol2vec/XGBoost,f1_val,0.577,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.06054193526506424,0,1
+mol2vec/XGBoost,paper_f1_0.202,0.202,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.6896654963493347,1,1
+mol2vec/XGBoost,paper_f1_0.202,0.202,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9270200133323669,1,1
+mol2vec/XGBoost,paper_f1_0.202,0.202,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.9895870685577393,1,1
+mol2vec/XGBoost,paper_f1_0.202,0.202,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.9350915551185608,1,1
+mol2vec/XGBoost,paper_f1_0.202,0.202,Fluvoxamine + Lactose,5324346,6134,False,1,0.014370066113770008,0,0
+mol2vec/XGBoost,paper_f1_0.202,0.202,Acetazolamide + Lactose,1986,6134,False,1,0.299976110458374,1,1
+mol2vec/XGBoost,paper_f1_0.202,0.202,Acetazolamide + Mannitol,1986,6251,False,1,0.3125525414943695,1,1
+mol2vec/XGBoost,paper_f1_0.202,0.202,Phenytoin sodium + Lactose,657302,6134,False,1,0.019365472719073296,0,0
+mol2vec/XGBoost,paper_f1_0.202,0.202,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.13562031090259552,0,0
+mol2vec/XGBoost,paper_f1_0.202,0.202,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.2984369993209839,1,1
+mol2vec/XGBoost,paper_f1_0.202,0.202,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.13335929811000824,0,0
+mol2vec/XGBoost,paper_f1_0.202,0.202,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.15375757217407227,0,0
+mol2vec/XGBoost,paper_f1_0.202,0.202,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.9928460717201233,1,0
+mol2vec/XGBoost,paper_f1_0.202,0.202,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.24184389412403107,1,0
+mol2vec/XGBoost,paper_f1_0.202,0.202,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9925619959831238,1,0
+mol2vec/XGBoost,paper_f1_0.202,0.202,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.00036303087836131454,0,1
+mol2vec/XGBoost,paper_f1_0.202,0.202,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.6838828325271606,1,0
+mol2vec/XGBoost,paper_f1_0.202,0.202,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.9636235237121582,1,0
+mol2vec/XGBoost,paper_f1_0.202,0.202,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.0003483235486783087,0,1
+mol2vec/XGBoost,paper_f1_0.202,0.202,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.49372097849845886,1,0
+mol2vec/XGBoost,paper_f1_0.202,0.202,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.7788411378860474,1,0
+mol2vec/XGBoost,paper_f1_0.202,0.202,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.003422713605687022,0,1
+mol2vec/XGBoost,paper_f1_0.202,0.202,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.0023979670368134975,0,1
+mol2vec/XGBoost,paper_f1_0.202,0.202,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.06054193526506424,0,1
+mol2vec/XGBoost,paper_ghost_0.020,0.02,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.6896654963493347,1,1
+mol2vec/XGBoost,paper_ghost_0.020,0.02,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9270200133323669,1,1
+mol2vec/XGBoost,paper_ghost_0.020,0.02,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.9895870685577393,1,1
+mol2vec/XGBoost,paper_ghost_0.020,0.02,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.9350915551185608,1,1
+mol2vec/XGBoost,paper_ghost_0.020,0.02,Fluvoxamine + Lactose,5324346,6134,False,1,0.014370066113770008,0,0
+mol2vec/XGBoost,paper_ghost_0.020,0.02,Acetazolamide + Lactose,1986,6134,False,1,0.299976110458374,1,1
+mol2vec/XGBoost,paper_ghost_0.020,0.02,Acetazolamide + Mannitol,1986,6251,False,1,0.3125525414943695,1,1
+mol2vec/XGBoost,paper_ghost_0.020,0.02,Phenytoin sodium + Lactose,657302,6134,False,1,0.019365472719073296,0,0
+mol2vec/XGBoost,paper_ghost_0.020,0.02,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.13562031090259552,1,1
+mol2vec/XGBoost,paper_ghost_0.020,0.02,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.2984369993209839,1,1
+mol2vec/XGBoost,paper_ghost_0.020,0.02,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.13335929811000824,1,1
+mol2vec/XGBoost,paper_ghost_0.020,0.02,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.15375757217407227,1,1
+mol2vec/XGBoost,paper_ghost_0.020,0.02,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.9928460717201233,1,0
+mol2vec/XGBoost,paper_ghost_0.020,0.02,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.24184389412403107,1,0
+mol2vec/XGBoost,paper_ghost_0.020,0.02,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9925619959831238,1,0
+mol2vec/XGBoost,paper_ghost_0.020,0.02,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.00036303087836131454,0,1
+mol2vec/XGBoost,paper_ghost_0.020,0.02,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.6838828325271606,1,0
+mol2vec/XGBoost,paper_ghost_0.020,0.02,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.9636235237121582,1,0
+mol2vec/XGBoost,paper_ghost_0.020,0.02,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.0003483235486783087,0,1
+mol2vec/XGBoost,paper_ghost_0.020,0.02,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.49372097849845886,1,0
+mol2vec/XGBoost,paper_ghost_0.020,0.02,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.7788411378860474,1,0
+mol2vec/XGBoost,paper_ghost_0.020,0.02,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.003422713605687022,0,1
+mol2vec/XGBoost,paper_ghost_0.020,0.02,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.0023979670368134975,0,1
+mol2vec/XGBoost,paper_ghost_0.020,0.02,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.06054193526506424,1,0
+mol2vec/AdaBoost,default_0.5,0.5,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.5218766468192162,1,1
+mol2vec/AdaBoost,default_0.5,0.5,Phenytoin + Magnesium oxide,1775,14792,False,1,0.576992981092768,1,1
+mol2vec/AdaBoost,default_0.5,0.5,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.6448265310779571,1,1
+mol2vec/AdaBoost,default_0.5,0.5,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.5544213105592536,1,1
+mol2vec/AdaBoost,default_0.5,0.5,Fluvoxamine + Lactose,5324346,6134,False,1,0.5093601422686401,1,1
+mol2vec/AdaBoost,default_0.5,0.5,Acetazolamide + Lactose,1986,6134,False,1,0.4888197476347465,0,0
+mol2vec/AdaBoost,default_0.5,0.5,Acetazolamide + Mannitol,1986,6251,False,1,0.5004747561294737,1,1
+mol2vec/AdaBoost,default_0.5,0.5,Phenytoin sodium + Lactose,657302,6134,False,1,0.45039044949639706,0,0
+mol2vec/AdaBoost,default_0.5,0.5,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.5225083337779675,1,1
+mol2vec/AdaBoost,default_0.5,0.5,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.517094006272438,1,1
+mol2vec/AdaBoost,default_0.5,0.5,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.4937781031734023,0,0
+mol2vec/AdaBoost,default_0.5,0.5,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.44888569536026457,0,0
+mol2vec/AdaBoost,default_0.5,0.5,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.6088636560868548,1,0
+mol2vec/AdaBoost,default_0.5,0.5,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.5038017099205883,1,0
+mol2vec/AdaBoost,default_0.5,0.5,GABAPENTIN + MANNITOL,3446,6251,False,0,0.5619315830976906,1,0
+mol2vec/AdaBoost,default_0.5,0.5,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.34691713503770744,0,1
+mol2vec/AdaBoost,default_0.5,0.5,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.4734677865731565,0,1
+mol2vec/AdaBoost,default_0.5,0.5,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.5612156003262315,1,0
+mol2vec/AdaBoost,default_0.5,0.5,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.3386852661298738,0,1
+mol2vec/AdaBoost,default_0.5,0.5,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.4744937948567757,0,1
+mol2vec/AdaBoost,default_0.5,0.5,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.49268760575597964,0,1
+mol2vec/AdaBoost,default_0.5,0.5,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.4146670394158605,0,1
+mol2vec/AdaBoost,default_0.5,0.5,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.40489467445401883,0,1
+mol2vec/AdaBoost,default_0.5,0.5,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.44222380896662394,0,1
+mol2vec/AdaBoost,f1_val,0.535,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.5218766468192162,0,0
+mol2vec/AdaBoost,f1_val,0.535,Phenytoin + Magnesium oxide,1775,14792,False,1,0.576992981092768,1,1
+mol2vec/AdaBoost,f1_val,0.535,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.6448265310779571,1,1
+mol2vec/AdaBoost,f1_val,0.535,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.5544213105592536,1,1
+mol2vec/AdaBoost,f1_val,0.535,Fluvoxamine + Lactose,5324346,6134,False,1,0.5093601422686401,0,0
+mol2vec/AdaBoost,f1_val,0.535,Acetazolamide + Lactose,1986,6134,False,1,0.4888197476347465,0,0
+mol2vec/AdaBoost,f1_val,0.535,Acetazolamide + Mannitol,1986,6251,False,1,0.5004747561294737,0,0
+mol2vec/AdaBoost,f1_val,0.535,Phenytoin sodium + Lactose,657302,6134,False,1,0.45039044949639706,0,0
+mol2vec/AdaBoost,f1_val,0.535,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.5225083337779675,0,0
+mol2vec/AdaBoost,f1_val,0.535,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.517094006272438,0,0
+mol2vec/AdaBoost,f1_val,0.535,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.4937781031734023,0,0
+mol2vec/AdaBoost,f1_val,0.535,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.44888569536026457,0,0
+mol2vec/AdaBoost,f1_val,0.535,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.6088636560868548,1,0
+mol2vec/AdaBoost,f1_val,0.535,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.5038017099205883,0,1
+mol2vec/AdaBoost,f1_val,0.535,GABAPENTIN + MANNITOL,3446,6251,False,0,0.5619315830976906,1,0
+mol2vec/AdaBoost,f1_val,0.535,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.34691713503770744,0,1
+mol2vec/AdaBoost,f1_val,0.535,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.4734677865731565,0,1
+mol2vec/AdaBoost,f1_val,0.535,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.5612156003262315,1,0
+mol2vec/AdaBoost,f1_val,0.535,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.3386852661298738,0,1
+mol2vec/AdaBoost,f1_val,0.535,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.4744937948567757,0,1
+mol2vec/AdaBoost,f1_val,0.535,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.49268760575597964,0,1
+mol2vec/AdaBoost,f1_val,0.535,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.4146670394158605,0,1
+mol2vec/AdaBoost,f1_val,0.535,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.40489467445401883,0,1
+mol2vec/AdaBoost,f1_val,0.535,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.44222380896662394,0,1
+mol2vec/AdaBoost,paper_f1_0.202,0.202,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.5218766468192162,1,1
+mol2vec/AdaBoost,paper_f1_0.202,0.202,Phenytoin + Magnesium oxide,1775,14792,False,1,0.576992981092768,1,1
+mol2vec/AdaBoost,paper_f1_0.202,0.202,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.6448265310779571,1,1
+mol2vec/AdaBoost,paper_f1_0.202,0.202,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.5544213105592536,1,1
+mol2vec/AdaBoost,paper_f1_0.202,0.202,Fluvoxamine + Lactose,5324346,6134,False,1,0.5093601422686401,1,1
+mol2vec/AdaBoost,paper_f1_0.202,0.202,Acetazolamide + Lactose,1986,6134,False,1,0.4888197476347465,1,1
+mol2vec/AdaBoost,paper_f1_0.202,0.202,Acetazolamide + Mannitol,1986,6251,False,1,0.5004747561294737,1,1
+mol2vec/AdaBoost,paper_f1_0.202,0.202,Phenytoin sodium + Lactose,657302,6134,False,1,0.45039044949639706,1,1
+mol2vec/AdaBoost,paper_f1_0.202,0.202,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.5225083337779675,1,1
+mol2vec/AdaBoost,paper_f1_0.202,0.202,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.517094006272438,1,1
+mol2vec/AdaBoost,paper_f1_0.202,0.202,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.4937781031734023,1,1
+mol2vec/AdaBoost,paper_f1_0.202,0.202,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.44888569536026457,1,1
+mol2vec/AdaBoost,paper_f1_0.202,0.202,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.6088636560868548,1,0
+mol2vec/AdaBoost,paper_f1_0.202,0.202,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.5038017099205883,1,0
+mol2vec/AdaBoost,paper_f1_0.202,0.202,GABAPENTIN + MANNITOL,3446,6251,False,0,0.5619315830976906,1,0
+mol2vec/AdaBoost,paper_f1_0.202,0.202,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.34691713503770744,1,0
+mol2vec/AdaBoost,paper_f1_0.202,0.202,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.4734677865731565,1,0
+mol2vec/AdaBoost,paper_f1_0.202,0.202,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.5612156003262315,1,0
+mol2vec/AdaBoost,paper_f1_0.202,0.202,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.3386852661298738,1,0
+mol2vec/AdaBoost,paper_f1_0.202,0.202,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.4744937948567757,1,0
+mol2vec/AdaBoost,paper_f1_0.202,0.202,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.49268760575597964,1,0
+mol2vec/AdaBoost,paper_f1_0.202,0.202,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.4146670394158605,1,0
+mol2vec/AdaBoost,paper_f1_0.202,0.202,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.40489467445401883,1,0
+mol2vec/AdaBoost,paper_f1_0.202,0.202,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.44222380896662394,1,0
+mol2vec/AdaBoost,paper_ghost_0.020,0.02,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.5218766468192162,1,1
+mol2vec/AdaBoost,paper_ghost_0.020,0.02,Phenytoin + Magnesium oxide,1775,14792,False,1,0.576992981092768,1,1
+mol2vec/AdaBoost,paper_ghost_0.020,0.02,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.6448265310779571,1,1
+mol2vec/AdaBoost,paper_ghost_0.020,0.02,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.5544213105592536,1,1
+mol2vec/AdaBoost,paper_ghost_0.020,0.02,Fluvoxamine + Lactose,5324346,6134,False,1,0.5093601422686401,1,1
+mol2vec/AdaBoost,paper_ghost_0.020,0.02,Acetazolamide + Lactose,1986,6134,False,1,0.4888197476347465,1,1
+mol2vec/AdaBoost,paper_ghost_0.020,0.02,Acetazolamide + Mannitol,1986,6251,False,1,0.5004747561294737,1,1
+mol2vec/AdaBoost,paper_ghost_0.020,0.02,Phenytoin sodium + Lactose,657302,6134,False,1,0.45039044949639706,1,1
+mol2vec/AdaBoost,paper_ghost_0.020,0.02,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.5225083337779675,1,1
+mol2vec/AdaBoost,paper_ghost_0.020,0.02,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.517094006272438,1,1
+mol2vec/AdaBoost,paper_ghost_0.020,0.02,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.4937781031734023,1,1
+mol2vec/AdaBoost,paper_ghost_0.020,0.02,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.44888569536026457,1,1
+mol2vec/AdaBoost,paper_ghost_0.020,0.02,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.6088636560868548,1,0
+mol2vec/AdaBoost,paper_ghost_0.020,0.02,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.5038017099205883,1,0
+mol2vec/AdaBoost,paper_ghost_0.020,0.02,GABAPENTIN + MANNITOL,3446,6251,False,0,0.5619315830976906,1,0
+mol2vec/AdaBoost,paper_ghost_0.020,0.02,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.34691713503770744,1,0
+mol2vec/AdaBoost,paper_ghost_0.020,0.02,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.4734677865731565,1,0
+mol2vec/AdaBoost,paper_ghost_0.020,0.02,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.5612156003262315,1,0
+mol2vec/AdaBoost,paper_ghost_0.020,0.02,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.3386852661298738,1,0
+mol2vec/AdaBoost,paper_ghost_0.020,0.02,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.4744937948567757,1,0
+mol2vec/AdaBoost,paper_ghost_0.020,0.02,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.49268760575597964,1,0
+mol2vec/AdaBoost,paper_ghost_0.020,0.02,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.4146670394158605,1,0
+mol2vec/AdaBoost,paper_ghost_0.020,0.02,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.40489467445401883,1,0
+mol2vec/AdaBoost,paper_ghost_0.020,0.02,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.44222380896662394,1,0
+2D/RandomForest,default_0.5,0.5,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.28,0,0
+2D/RandomForest,default_0.5,0.5,Phenytoin + Magnesium oxide,1775,14792,False,1,0.62,1,1
+2D/RandomForest,default_0.5,0.5,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.46,0,0
+2D/RandomForest,default_0.5,0.5,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.28,0,0
+2D/RandomForest,default_0.5,0.5,Fluvoxamine + Lactose,5324346,6134,False,1,0.38,0,0
+2D/RandomForest,default_0.5,0.5,Acetazolamide + Lactose,1986,6134,False,1,0.54,1,1
+2D/RandomForest,default_0.5,0.5,Acetazolamide + Mannitol,1986,6251,False,1,0.62,1,1
+2D/RandomForest,default_0.5,0.5,Phenytoin sodium + Lactose,657302,6134,False,1,0.5,1,1
+2D/RandomForest,default_0.5,0.5,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.56,1,1
+2D/RandomForest,default_0.5,0.5,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.4,0,0
+2D/RandomForest,default_0.5,0.5,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.34,0,0
+2D/RandomForest,default_0.5,0.5,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.34,0,0
+2D/RandomForest,default_0.5,0.5,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.66,1,0
+2D/RandomForest,default_0.5,0.5,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.38,0,1
+2D/RandomForest,default_0.5,0.5,GABAPENTIN + MANNITOL,3446,6251,False,0,0.78,1,0
+2D/RandomForest,default_0.5,0.5,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.12,0,1
+2D/RandomForest,default_0.5,0.5,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.5,1,0
+2D/RandomForest,default_0.5,0.5,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.68,1,0
+2D/RandomForest,default_0.5,0.5,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.06,0,1
+2D/RandomForest,default_0.5,0.5,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.66,1,0
+2D/RandomForest,default_0.5,0.5,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.56,1,0
+2D/RandomForest,default_0.5,0.5,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.3,0,1
+2D/RandomForest,default_0.5,0.5,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.12,0,1
+2D/RandomForest,default_0.5,0.5,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.32,0,1
+2D/RandomForest,f1_val,0.741,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.28,0,0
+2D/RandomForest,f1_val,0.741,Phenytoin + Magnesium oxide,1775,14792,False,1,0.62,0,0
+2D/RandomForest,f1_val,0.741,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.46,0,0
+2D/RandomForest,f1_val,0.741,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.28,0,0
+2D/RandomForest,f1_val,0.741,Fluvoxamine + Lactose,5324346,6134,False,1,0.38,0,0
+2D/RandomForest,f1_val,0.741,Acetazolamide + Lactose,1986,6134,False,1,0.54,0,0
+2D/RandomForest,f1_val,0.741,Acetazolamide + Mannitol,1986,6251,False,1,0.62,0,0
+2D/RandomForest,f1_val,0.741,Phenytoin sodium + Lactose,657302,6134,False,1,0.5,0,0
+2D/RandomForest,f1_val,0.741,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.56,0,0
+2D/RandomForest,f1_val,0.741,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.4,0,0
+2D/RandomForest,f1_val,0.741,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.34,0,0
+2D/RandomForest,f1_val,0.741,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.34,0,0
+2D/RandomForest,f1_val,0.741,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.66,0,1
+2D/RandomForest,f1_val,0.741,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.38,0,1
+2D/RandomForest,f1_val,0.741,GABAPENTIN + MANNITOL,3446,6251,False,0,0.78,1,0
+2D/RandomForest,f1_val,0.741,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.12,0,1
+2D/RandomForest,f1_val,0.741,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.5,0,1
+2D/RandomForest,f1_val,0.741,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.68,0,1
+2D/RandomForest,f1_val,0.741,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.06,0,1
+2D/RandomForest,f1_val,0.741,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.66,0,1
+2D/RandomForest,f1_val,0.741,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.56,0,1
+2D/RandomForest,f1_val,0.741,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.3,0,1
+2D/RandomForest,f1_val,0.741,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.12,0,1
+2D/RandomForest,f1_val,0.741,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.32,0,1
+2D/RandomForest,paper_f1_0.202,0.202,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.28,1,1
+2D/RandomForest,paper_f1_0.202,0.202,Phenytoin + Magnesium oxide,1775,14792,False,1,0.62,1,1
+2D/RandomForest,paper_f1_0.202,0.202,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.46,1,1
+2D/RandomForest,paper_f1_0.202,0.202,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.28,1,1
+2D/RandomForest,paper_f1_0.202,0.202,Fluvoxamine + Lactose,5324346,6134,False,1,0.38,1,1
+2D/RandomForest,paper_f1_0.202,0.202,Acetazolamide + Lactose,1986,6134,False,1,0.54,1,1
+2D/RandomForest,paper_f1_0.202,0.202,Acetazolamide + Mannitol,1986,6251,False,1,0.62,1,1
+2D/RandomForest,paper_f1_0.202,0.202,Phenytoin sodium + Lactose,657302,6134,False,1,0.5,1,1
+2D/RandomForest,paper_f1_0.202,0.202,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.56,1,1
+2D/RandomForest,paper_f1_0.202,0.202,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.4,1,1
+2D/RandomForest,paper_f1_0.202,0.202,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.34,1,1
+2D/RandomForest,paper_f1_0.202,0.202,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.34,1,1
+2D/RandomForest,paper_f1_0.202,0.202,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.66,1,0
+2D/RandomForest,paper_f1_0.202,0.202,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.38,1,0
+2D/RandomForest,paper_f1_0.202,0.202,GABAPENTIN + MANNITOL,3446,6251,False,0,0.78,1,0
+2D/RandomForest,paper_f1_0.202,0.202,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.12,0,1
+2D/RandomForest,paper_f1_0.202,0.202,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.5,1,0
+2D/RandomForest,paper_f1_0.202,0.202,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.68,1,0
+2D/RandomForest,paper_f1_0.202,0.202,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.06,0,1
+2D/RandomForest,paper_f1_0.202,0.202,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.66,1,0
+2D/RandomForest,paper_f1_0.202,0.202,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.56,1,0
+2D/RandomForest,paper_f1_0.202,0.202,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.3,1,0
+2D/RandomForest,paper_f1_0.202,0.202,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.12,0,1
+2D/RandomForest,paper_f1_0.202,0.202,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.32,1,0
+2D/RandomForest,paper_ghost_0.020,0.02,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.28,1,1
+2D/RandomForest,paper_ghost_0.020,0.02,Phenytoin + Magnesium oxide,1775,14792,False,1,0.62,1,1
+2D/RandomForest,paper_ghost_0.020,0.02,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.46,1,1
+2D/RandomForest,paper_ghost_0.020,0.02,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.28,1,1
+2D/RandomForest,paper_ghost_0.020,0.02,Fluvoxamine + Lactose,5324346,6134,False,1,0.38,1,1
+2D/RandomForest,paper_ghost_0.020,0.02,Acetazolamide + Lactose,1986,6134,False,1,0.54,1,1
+2D/RandomForest,paper_ghost_0.020,0.02,Acetazolamide + Mannitol,1986,6251,False,1,0.62,1,1
+2D/RandomForest,paper_ghost_0.020,0.02,Phenytoin sodium + Lactose,657302,6134,False,1,0.5,1,1
+2D/RandomForest,paper_ghost_0.020,0.02,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.56,1,1
+2D/RandomForest,paper_ghost_0.020,0.02,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.4,1,1
+2D/RandomForest,paper_ghost_0.020,0.02,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.34,1,1
+2D/RandomForest,paper_ghost_0.020,0.02,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.34,1,1
+2D/RandomForest,paper_ghost_0.020,0.02,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.66,1,0
+2D/RandomForest,paper_ghost_0.020,0.02,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.38,1,0
+2D/RandomForest,paper_ghost_0.020,0.02,GABAPENTIN + MANNITOL,3446,6251,False,0,0.78,1,0
+2D/RandomForest,paper_ghost_0.020,0.02,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.12,1,0
+2D/RandomForest,paper_ghost_0.020,0.02,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.5,1,0
+2D/RandomForest,paper_ghost_0.020,0.02,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.68,1,0
+2D/RandomForest,paper_ghost_0.020,0.02,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.06,1,0
+2D/RandomForest,paper_ghost_0.020,0.02,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.66,1,0
+2D/RandomForest,paper_ghost_0.020,0.02,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.56,1,0
+2D/RandomForest,paper_ghost_0.020,0.02,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.3,1,0
+2D/RandomForest,paper_ghost_0.020,0.02,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.12,1,0
+2D/RandomForest,paper_ghost_0.020,0.02,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.32,1,0
+2D/DecisionTree,default_0.5,0.5,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.0072992700729927005,0,0
+2D/DecisionTree,default_0.5,0.5,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9631901840490797,1,1
+2D/DecisionTree,default_0.5,0.5,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.9631901840490797,1,1
+2D/DecisionTree,default_0.5,0.5,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.04878048780487805,0,0
+2D/DecisionTree,default_0.5,0.5,Fluvoxamine + Lactose,5324346,6134,False,1,0.04878048780487805,0,0
+2D/DecisionTree,default_0.5,0.5,Acetazolamide + Lactose,1986,6134,False,1,0.0072992700729927005,0,0
+2D/DecisionTree,default_0.5,0.5,Acetazolamide + Mannitol,1986,6251,False,1,0.0072992700729927005,0,0
+2D/DecisionTree,default_0.5,0.5,Phenytoin sodium + Lactose,657302,6134,False,1,0.9631901840490797,1,1
+2D/DecisionTree,default_0.5,0.5,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.9631901840490797,1,1
+2D/DecisionTree,default_0.5,0.5,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.0,0,0
+2D/DecisionTree,default_0.5,0.5,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.0,0,0
+2D/DecisionTree,default_0.5,0.5,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.0072992700729927005,0,0
+2D/DecisionTree,default_0.5,0.5,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.0,0,1
+2D/DecisionTree,default_0.5,0.5,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.0072992700729927005,0,1
+2D/DecisionTree,default_0.5,0.5,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9631901840490797,1,0
+2D/DecisionTree,default_0.5,0.5,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.0072992700729927005,0,1
+2D/DecisionTree,default_0.5,0.5,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.9631901840490797,1,0
+2D/DecisionTree,default_0.5,0.5,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.9631901840490797,1,0
+2D/DecisionTree,default_0.5,0.5,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,1.0,1,0
+2D/DecisionTree,default_0.5,0.5,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.9631901840490797,1,0
+2D/DecisionTree,default_0.5,0.5,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.0,0,1
+2D/DecisionTree,default_0.5,0.5,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.04878048780487805,0,1
+2D/DecisionTree,default_0.5,0.5,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.0072992700729927005,0,1
+2D/DecisionTree,default_0.5,0.5,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.0072992700729927005,0,1
+2D/DecisionTree,f1_val,0.751,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.0072992700729927005,0,0
+2D/DecisionTree,f1_val,0.751,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9631901840490797,1,1
+2D/DecisionTree,f1_val,0.751,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.9631901840490797,1,1
+2D/DecisionTree,f1_val,0.751,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.04878048780487805,0,0
+2D/DecisionTree,f1_val,0.751,Fluvoxamine + Lactose,5324346,6134,False,1,0.04878048780487805,0,0
+2D/DecisionTree,f1_val,0.751,Acetazolamide + Lactose,1986,6134,False,1,0.0072992700729927005,0,0
+2D/DecisionTree,f1_val,0.751,Acetazolamide + Mannitol,1986,6251,False,1,0.0072992700729927005,0,0
+2D/DecisionTree,f1_val,0.751,Phenytoin sodium + Lactose,657302,6134,False,1,0.9631901840490797,1,1
+2D/DecisionTree,f1_val,0.751,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.9631901840490797,1,1
+2D/DecisionTree,f1_val,0.751,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.0,0,0
+2D/DecisionTree,f1_val,0.751,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.0,0,0
+2D/DecisionTree,f1_val,0.751,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.0072992700729927005,0,0
+2D/DecisionTree,f1_val,0.751,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.0,0,1
+2D/DecisionTree,f1_val,0.751,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.0072992700729927005,0,1
+2D/DecisionTree,f1_val,0.751,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9631901840490797,1,0
+2D/DecisionTree,f1_val,0.751,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.0072992700729927005,0,1
+2D/DecisionTree,f1_val,0.751,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.9631901840490797,1,0
+2D/DecisionTree,f1_val,0.751,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.9631901840490797,1,0
+2D/DecisionTree,f1_val,0.751,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,1.0,1,0
+2D/DecisionTree,f1_val,0.751,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.9631901840490797,1,0
+2D/DecisionTree,f1_val,0.751,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.0,0,1
+2D/DecisionTree,f1_val,0.751,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.04878048780487805,0,1
+2D/DecisionTree,f1_val,0.751,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.0072992700729927005,0,1
+2D/DecisionTree,f1_val,0.751,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.0072992700729927005,0,1
+2D/DecisionTree,paper_f1_0.202,0.202,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.0072992700729927005,0,0
+2D/DecisionTree,paper_f1_0.202,0.202,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9631901840490797,1,1
+2D/DecisionTree,paper_f1_0.202,0.202,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.9631901840490797,1,1
+2D/DecisionTree,paper_f1_0.202,0.202,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.04878048780487805,0,0
+2D/DecisionTree,paper_f1_0.202,0.202,Fluvoxamine + Lactose,5324346,6134,False,1,0.04878048780487805,0,0
+2D/DecisionTree,paper_f1_0.202,0.202,Acetazolamide + Lactose,1986,6134,False,1,0.0072992700729927005,0,0
+2D/DecisionTree,paper_f1_0.202,0.202,Acetazolamide + Mannitol,1986,6251,False,1,0.0072992700729927005,0,0
+2D/DecisionTree,paper_f1_0.202,0.202,Phenytoin sodium + Lactose,657302,6134,False,1,0.9631901840490797,1,1
+2D/DecisionTree,paper_f1_0.202,0.202,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.9631901840490797,1,1
+2D/DecisionTree,paper_f1_0.202,0.202,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.0,0,0
+2D/DecisionTree,paper_f1_0.202,0.202,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.0,0,0
+2D/DecisionTree,paper_f1_0.202,0.202,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.0072992700729927005,0,0
+2D/DecisionTree,paper_f1_0.202,0.202,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.0,0,1
+2D/DecisionTree,paper_f1_0.202,0.202,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.0072992700729927005,0,1
+2D/DecisionTree,paper_f1_0.202,0.202,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9631901840490797,1,0
+2D/DecisionTree,paper_f1_0.202,0.202,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.0072992700729927005,0,1
+2D/DecisionTree,paper_f1_0.202,0.202,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.9631901840490797,1,0
+2D/DecisionTree,paper_f1_0.202,0.202,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.9631901840490797,1,0
+2D/DecisionTree,paper_f1_0.202,0.202,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,1.0,1,0
+2D/DecisionTree,paper_f1_0.202,0.202,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.9631901840490797,1,0
+2D/DecisionTree,paper_f1_0.202,0.202,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.0,0,1
+2D/DecisionTree,paper_f1_0.202,0.202,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.04878048780487805,0,1
+2D/DecisionTree,paper_f1_0.202,0.202,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.0072992700729927005,0,1
+2D/DecisionTree,paper_f1_0.202,0.202,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.0072992700729927005,0,1
+2D/DecisionTree,paper_ghost_0.020,0.02,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.0072992700729927005,0,0
+2D/DecisionTree,paper_ghost_0.020,0.02,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9631901840490797,1,1
+2D/DecisionTree,paper_ghost_0.020,0.02,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.9631901840490797,1,1
+2D/DecisionTree,paper_ghost_0.020,0.02,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.04878048780487805,1,1
+2D/DecisionTree,paper_ghost_0.020,0.02,Fluvoxamine + Lactose,5324346,6134,False,1,0.04878048780487805,1,1
+2D/DecisionTree,paper_ghost_0.020,0.02,Acetazolamide + Lactose,1986,6134,False,1,0.0072992700729927005,0,0
+2D/DecisionTree,paper_ghost_0.020,0.02,Acetazolamide + Mannitol,1986,6251,False,1,0.0072992700729927005,0,0
+2D/DecisionTree,paper_ghost_0.020,0.02,Phenytoin sodium + Lactose,657302,6134,False,1,0.9631901840490797,1,1
+2D/DecisionTree,paper_ghost_0.020,0.02,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.9631901840490797,1,1
+2D/DecisionTree,paper_ghost_0.020,0.02,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.0,0,0
+2D/DecisionTree,paper_ghost_0.020,0.02,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.0,0,0
+2D/DecisionTree,paper_ghost_0.020,0.02,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.0072992700729927005,0,0
+2D/DecisionTree,paper_ghost_0.020,0.02,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.0,0,1
+2D/DecisionTree,paper_ghost_0.020,0.02,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.0072992700729927005,0,1
+2D/DecisionTree,paper_ghost_0.020,0.02,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9631901840490797,1,0
+2D/DecisionTree,paper_ghost_0.020,0.02,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.0072992700729927005,0,1
+2D/DecisionTree,paper_ghost_0.020,0.02,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.9631901840490797,1,0
+2D/DecisionTree,paper_ghost_0.020,0.02,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.9631901840490797,1,0
+2D/DecisionTree,paper_ghost_0.020,0.02,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,1.0,1,0
+2D/DecisionTree,paper_ghost_0.020,0.02,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.9631901840490797,1,0
+2D/DecisionTree,paper_ghost_0.020,0.02,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.0,0,1
+2D/DecisionTree,paper_ghost_0.020,0.02,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.04878048780487805,1,0
+2D/DecisionTree,paper_ghost_0.020,0.02,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.0072992700729927005,0,1
+2D/DecisionTree,paper_ghost_0.020,0.02,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.0072992700729927005,0,1
+2D/SVM,default_0.5,0.5,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.23604741190332015,0,0
+2D/SVM,default_0.5,0.5,Phenytoin + Magnesium oxide,1775,14792,False,1,0.23604750021948448,0,0
+2D/SVM,default_0.5,0.5,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.23604741189947753,0,0
+2D/SVM,default_0.5,0.5,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.23604741190331985,0,0
+2D/SVM,default_0.5,0.5,Fluvoxamine + Lactose,5324346,6134,False,1,0.2360474119032408,0,0
+2D/SVM,default_0.5,0.5,Acetazolamide + Lactose,1986,6134,False,1,0.23604709649054423,0,0
+2D/SVM,default_0.5,0.5,Acetazolamide + Mannitol,1986,6251,False,1,0.23601141373974494,0,0
+2D/SVM,default_0.5,0.5,Phenytoin sodium + Lactose,657302,6134,False,1,0.236046150019592,0,0
+2D/SVM,default_0.5,0.5,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.23604741231303222,0,0
+2D/SVM,default_0.5,0.5,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.2360474203542438,0,0
+2D/SVM,default_0.5,0.5,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.23604741190332015,0,0
+2D/SVM,default_0.5,0.5,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.23604741190332015,0,0
+2D/SVM,default_0.5,0.5,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.23604733209944076,0,1
+2D/SVM,default_0.5,0.5,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.23604741190332645,0,1
+2D/SVM,default_0.5,0.5,GABAPENTIN + MANNITOL,3446,6251,False,0,0.23604741190332015,0,1
+2D/SVM,default_0.5,0.5,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.23604741181543662,0,1
+2D/SVM,default_0.5,0.5,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.23604731927568037,0,1
+2D/SVM,default_0.5,0.5,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.23604741190306971,0,1
+2D/SVM,default_0.5,0.5,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.23604740898995713,0,1
+2D/SVM,default_0.5,0.5,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.23604741190343145,0,1
+2D/SVM,default_0.5,0.5,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.23604741190332015,0,1
+2D/SVM,default_0.5,0.5,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.23604741179517727,0,1
+2D/SVM,default_0.5,0.5,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.23604739061526098,0,1
+2D/SVM,default_0.5,0.5,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.23613195884234642,0,1
+2D/SVM,f1_val,0.236,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.23604741190332015,1,1
+2D/SVM,f1_val,0.236,Phenytoin + Magnesium oxide,1775,14792,False,1,0.23604750021948448,1,1
+2D/SVM,f1_val,0.236,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.23604741189947753,1,1
+2D/SVM,f1_val,0.236,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.23604741190331985,1,1
+2D/SVM,f1_val,0.236,Fluvoxamine + Lactose,5324346,6134,False,1,0.2360474119032408,1,1
+2D/SVM,f1_val,0.236,Acetazolamide + Lactose,1986,6134,False,1,0.23604709649054423,1,1
+2D/SVM,f1_val,0.236,Acetazolamide + Mannitol,1986,6251,False,1,0.23601141373974494,1,1
+2D/SVM,f1_val,0.236,Phenytoin sodium + Lactose,657302,6134,False,1,0.236046150019592,1,1
+2D/SVM,f1_val,0.236,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.23604741231303222,1,1
+2D/SVM,f1_val,0.236,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.2360474203542438,1,1
+2D/SVM,f1_val,0.236,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.23604741190332015,1,1
+2D/SVM,f1_val,0.236,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.23604741190332015,1,1
+2D/SVM,f1_val,0.236,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.23604733209944076,1,0
+2D/SVM,f1_val,0.236,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.23604741190332645,1,0
+2D/SVM,f1_val,0.236,GABAPENTIN + MANNITOL,3446,6251,False,0,0.23604741190332015,1,0
+2D/SVM,f1_val,0.236,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.23604741181543662,1,0
+2D/SVM,f1_val,0.236,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.23604731927568037,1,0
+2D/SVM,f1_val,0.236,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.23604741190306971,1,0
+2D/SVM,f1_val,0.236,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.23604740898995713,1,0
+2D/SVM,f1_val,0.236,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.23604741190343145,1,0
+2D/SVM,f1_val,0.236,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.23604741190332015,1,0
+2D/SVM,f1_val,0.236,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.23604741179517727,1,0
+2D/SVM,f1_val,0.236,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.23604739061526098,1,0
+2D/SVM,f1_val,0.236,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.23613195884234642,1,0
+2D/SVM,paper_f1_0.202,0.202,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.23604741190332015,1,1
+2D/SVM,paper_f1_0.202,0.202,Phenytoin + Magnesium oxide,1775,14792,False,1,0.23604750021948448,1,1
+2D/SVM,paper_f1_0.202,0.202,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.23604741189947753,1,1
+2D/SVM,paper_f1_0.202,0.202,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.23604741190331985,1,1
+2D/SVM,paper_f1_0.202,0.202,Fluvoxamine + Lactose,5324346,6134,False,1,0.2360474119032408,1,1
+2D/SVM,paper_f1_0.202,0.202,Acetazolamide + Lactose,1986,6134,False,1,0.23604709649054423,1,1
+2D/SVM,paper_f1_0.202,0.202,Acetazolamide + Mannitol,1986,6251,False,1,0.23601141373974494,1,1
+2D/SVM,paper_f1_0.202,0.202,Phenytoin sodium + Lactose,657302,6134,False,1,0.236046150019592,1,1
+2D/SVM,paper_f1_0.202,0.202,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.23604741231303222,1,1
+2D/SVM,paper_f1_0.202,0.202,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.2360474203542438,1,1
+2D/SVM,paper_f1_0.202,0.202,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.23604741190332015,1,1
+2D/SVM,paper_f1_0.202,0.202,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.23604741190332015,1,1
+2D/SVM,paper_f1_0.202,0.202,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.23604733209944076,1,0
+2D/SVM,paper_f1_0.202,0.202,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.23604741190332645,1,0
+2D/SVM,paper_f1_0.202,0.202,GABAPENTIN + MANNITOL,3446,6251,False,0,0.23604741190332015,1,0
+2D/SVM,paper_f1_0.202,0.202,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.23604741181543662,1,0
+2D/SVM,paper_f1_0.202,0.202,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.23604731927568037,1,0
+2D/SVM,paper_f1_0.202,0.202,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.23604741190306971,1,0
+2D/SVM,paper_f1_0.202,0.202,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.23604740898995713,1,0
+2D/SVM,paper_f1_0.202,0.202,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.23604741190343145,1,0
+2D/SVM,paper_f1_0.202,0.202,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.23604741190332015,1,0
+2D/SVM,paper_f1_0.202,0.202,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.23604741179517727,1,0
+2D/SVM,paper_f1_0.202,0.202,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.23604739061526098,1,0
+2D/SVM,paper_f1_0.202,0.202,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.23613195884234642,1,0
+2D/SVM,paper_ghost_0.020,0.02,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.23604741190332015,1,1
+2D/SVM,paper_ghost_0.020,0.02,Phenytoin + Magnesium oxide,1775,14792,False,1,0.23604750021948448,1,1
+2D/SVM,paper_ghost_0.020,0.02,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.23604741189947753,1,1
+2D/SVM,paper_ghost_0.020,0.02,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.23604741190331985,1,1
+2D/SVM,paper_ghost_0.020,0.02,Fluvoxamine + Lactose,5324346,6134,False,1,0.2360474119032408,1,1
+2D/SVM,paper_ghost_0.020,0.02,Acetazolamide + Lactose,1986,6134,False,1,0.23604709649054423,1,1
+2D/SVM,paper_ghost_0.020,0.02,Acetazolamide + Mannitol,1986,6251,False,1,0.23601141373974494,1,1
+2D/SVM,paper_ghost_0.020,0.02,Phenytoin sodium + Lactose,657302,6134,False,1,0.236046150019592,1,1
+2D/SVM,paper_ghost_0.020,0.02,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.23604741231303222,1,1
+2D/SVM,paper_ghost_0.020,0.02,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.2360474203542438,1,1
+2D/SVM,paper_ghost_0.020,0.02,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.23604741190332015,1,1
+2D/SVM,paper_ghost_0.020,0.02,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.23604741190332015,1,1
+2D/SVM,paper_ghost_0.020,0.02,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.23604733209944076,1,0
+2D/SVM,paper_ghost_0.020,0.02,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.23604741190332645,1,0
+2D/SVM,paper_ghost_0.020,0.02,GABAPENTIN + MANNITOL,3446,6251,False,0,0.23604741190332015,1,0
+2D/SVM,paper_ghost_0.020,0.02,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.23604741181543662,1,0
+2D/SVM,paper_ghost_0.020,0.02,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.23604731927568037,1,0
+2D/SVM,paper_ghost_0.020,0.02,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.23604741190306971,1,0
+2D/SVM,paper_ghost_0.020,0.02,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.23604740898995713,1,0
+2D/SVM,paper_ghost_0.020,0.02,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.23604741190343145,1,0
+2D/SVM,paper_ghost_0.020,0.02,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.23604741190332015,1,0
+2D/SVM,paper_ghost_0.020,0.02,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.23604741179517727,1,0
+2D/SVM,paper_ghost_0.020,0.02,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.23604739061526098,1,0
+2D/SVM,paper_ghost_0.020,0.02,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.23613195884234642,1,0
+2D/MLP,default_0.5,0.5,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.14863349697587958,0,0
+2D/MLP,default_0.5,0.5,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9933877871884966,1,1
+2D/MLP,default_0.5,0.5,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.0031963291010917976,0,0
+2D/MLP,default_0.5,0.5,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.00496903152511605,0,0
+2D/MLP,default_0.5,0.5,Fluvoxamine + Lactose,5324346,6134,False,1,2.723894576375801e-05,0,0
+2D/MLP,default_0.5,0.5,Acetazolamide + Lactose,1986,6134,False,1,0.03749432539021256,0,0
+2D/MLP,default_0.5,0.5,Acetazolamide + Mannitol,1986,6251,False,1,0.017616301016771578,0,0
+2D/MLP,default_0.5,0.5,Phenytoin sodium + Lactose,657302,6134,False,1,0.0032748672434307403,0,0
+2D/MLP,default_0.5,0.5,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.20335218666231822,0,0
+2D/MLP,default_0.5,0.5,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.11101689383392174,0,0
+2D/MLP,default_0.5,0.5,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,1.9015850012642625e-06,0,0
+2D/MLP,default_0.5,0.5,Quercetin + Magnesium carbonate,5280343,11029,False,1,1.245162620839579e-63,0,0
+2D/MLP,default_0.5,0.5,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,4.92235371658126e-06,0,1
+2D/MLP,default_0.5,0.5,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.9998022280381531,1,0
+2D/MLP,default_0.5,0.5,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9142429759598142,1,0
+2D/MLP,default_0.5,0.5,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,1.660732328291257e-05,0,1
+2D/MLP,default_0.5,0.5,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.20872252411643794,0,1
+2D/MLP,default_0.5,0.5,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.0003677357448428707,0,1
+2D/MLP,default_0.5,0.5,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,1.6415682279596338e-10,0,1
+2D/MLP,default_0.5,0.5,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.9224575253487043,1,0
+2D/MLP,default_0.5,0.5,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.9999997059554272,1,0
+2D/MLP,default_0.5,0.5,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.8977293878156724,1,0
+2D/MLP,default_0.5,0.5,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,5.585421686692306e-05,0,1
+2D/MLP,default_0.5,0.5,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.22410313988856476,0,1
+2D/MLP,f1_val,0.67,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.14863349697587958,0,0
+2D/MLP,f1_val,0.67,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9933877871884966,1,1
+2D/MLP,f1_val,0.67,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.0031963291010917976,0,0
+2D/MLP,f1_val,0.67,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.00496903152511605,0,0
+2D/MLP,f1_val,0.67,Fluvoxamine + Lactose,5324346,6134,False,1,2.723894576375801e-05,0,0
+2D/MLP,f1_val,0.67,Acetazolamide + Lactose,1986,6134,False,1,0.03749432539021256,0,0
+2D/MLP,f1_val,0.67,Acetazolamide + Mannitol,1986,6251,False,1,0.017616301016771578,0,0
+2D/MLP,f1_val,0.67,Phenytoin sodium + Lactose,657302,6134,False,1,0.0032748672434307403,0,0
+2D/MLP,f1_val,0.67,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.20335218666231822,0,0
+2D/MLP,f1_val,0.67,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.11101689383392174,0,0
+2D/MLP,f1_val,0.67,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,1.9015850012642625e-06,0,0
+2D/MLP,f1_val,0.67,Quercetin + Magnesium carbonate,5280343,11029,False,1,1.245162620839579e-63,0,0
+2D/MLP,f1_val,0.67,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,4.92235371658126e-06,0,1
+2D/MLP,f1_val,0.67,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.9998022280381531,1,0
+2D/MLP,f1_val,0.67,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9142429759598142,1,0
+2D/MLP,f1_val,0.67,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,1.660732328291257e-05,0,1
+2D/MLP,f1_val,0.67,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.20872252411643794,0,1
+2D/MLP,f1_val,0.67,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.0003677357448428707,0,1
+2D/MLP,f1_val,0.67,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,1.6415682279596338e-10,0,1
+2D/MLP,f1_val,0.67,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.9224575253487043,1,0
+2D/MLP,f1_val,0.67,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.9999997059554272,1,0
+2D/MLP,f1_val,0.67,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.8977293878156724,1,0
+2D/MLP,f1_val,0.67,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,5.585421686692306e-05,0,1
+2D/MLP,f1_val,0.67,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.22410313988856476,0,1
+2D/MLP,paper_f1_0.202,0.202,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.14863349697587958,0,0
+2D/MLP,paper_f1_0.202,0.202,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9933877871884966,1,1
+2D/MLP,paper_f1_0.202,0.202,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.0031963291010917976,0,0
+2D/MLP,paper_f1_0.202,0.202,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.00496903152511605,0,0
+2D/MLP,paper_f1_0.202,0.202,Fluvoxamine + Lactose,5324346,6134,False,1,2.723894576375801e-05,0,0
+2D/MLP,paper_f1_0.202,0.202,Acetazolamide + Lactose,1986,6134,False,1,0.03749432539021256,0,0
+2D/MLP,paper_f1_0.202,0.202,Acetazolamide + Mannitol,1986,6251,False,1,0.017616301016771578,0,0
+2D/MLP,paper_f1_0.202,0.202,Phenytoin sodium + Lactose,657302,6134,False,1,0.0032748672434307403,0,0
+2D/MLP,paper_f1_0.202,0.202,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.20335218666231822,1,1
+2D/MLP,paper_f1_0.202,0.202,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.11101689383392174,0,0
+2D/MLP,paper_f1_0.202,0.202,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,1.9015850012642625e-06,0,0
+2D/MLP,paper_f1_0.202,0.202,Quercetin + Magnesium carbonate,5280343,11029,False,1,1.245162620839579e-63,0,0
+2D/MLP,paper_f1_0.202,0.202,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,4.92235371658126e-06,0,1
+2D/MLP,paper_f1_0.202,0.202,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.9998022280381531,1,0
+2D/MLP,paper_f1_0.202,0.202,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9142429759598142,1,0
+2D/MLP,paper_f1_0.202,0.202,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,1.660732328291257e-05,0,1
+2D/MLP,paper_f1_0.202,0.202,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.20872252411643794,1,0
+2D/MLP,paper_f1_0.202,0.202,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.0003677357448428707,0,1
+2D/MLP,paper_f1_0.202,0.202,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,1.6415682279596338e-10,0,1
+2D/MLP,paper_f1_0.202,0.202,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.9224575253487043,1,0
+2D/MLP,paper_f1_0.202,0.202,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.9999997059554272,1,0
+2D/MLP,paper_f1_0.202,0.202,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.8977293878156724,1,0
+2D/MLP,paper_f1_0.202,0.202,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,5.585421686692306e-05,0,1
+2D/MLP,paper_f1_0.202,0.202,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.22410313988856476,1,0
+2D/MLP,paper_ghost_0.020,0.02,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.14863349697587958,1,1
+2D/MLP,paper_ghost_0.020,0.02,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9933877871884966,1,1
+2D/MLP,paper_ghost_0.020,0.02,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.0031963291010917976,0,0
+2D/MLP,paper_ghost_0.020,0.02,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.00496903152511605,0,0
+2D/MLP,paper_ghost_0.020,0.02,Fluvoxamine + Lactose,5324346,6134,False,1,2.723894576375801e-05,0,0
+2D/MLP,paper_ghost_0.020,0.02,Acetazolamide + Lactose,1986,6134,False,1,0.03749432539021256,1,1
+2D/MLP,paper_ghost_0.020,0.02,Acetazolamide + Mannitol,1986,6251,False,1,0.017616301016771578,0,0
+2D/MLP,paper_ghost_0.020,0.02,Phenytoin sodium + Lactose,657302,6134,False,1,0.0032748672434307403,0,0
+2D/MLP,paper_ghost_0.020,0.02,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.20335218666231822,1,1
+2D/MLP,paper_ghost_0.020,0.02,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.11101689383392174,1,1
+2D/MLP,paper_ghost_0.020,0.02,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,1.9015850012642625e-06,0,0
+2D/MLP,paper_ghost_0.020,0.02,Quercetin + Magnesium carbonate,5280343,11029,False,1,1.245162620839579e-63,0,0
+2D/MLP,paper_ghost_0.020,0.02,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,4.92235371658126e-06,0,1
+2D/MLP,paper_ghost_0.020,0.02,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.9998022280381531,1,0
+2D/MLP,paper_ghost_0.020,0.02,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9142429759598142,1,0
+2D/MLP,paper_ghost_0.020,0.02,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,1.660732328291257e-05,0,1
+2D/MLP,paper_ghost_0.020,0.02,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.20872252411643794,1,0
+2D/MLP,paper_ghost_0.020,0.02,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.0003677357448428707,0,1
+2D/MLP,paper_ghost_0.020,0.02,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,1.6415682279596338e-10,0,1
+2D/MLP,paper_ghost_0.020,0.02,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.9224575253487043,1,0
+2D/MLP,paper_ghost_0.020,0.02,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.9999997059554272,1,0
+2D/MLP,paper_ghost_0.020,0.02,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.8977293878156724,1,0
+2D/MLP,paper_ghost_0.020,0.02,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,5.585421686692306e-05,0,1
+2D/MLP,paper_ghost_0.020,0.02,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.22410313988856476,1,0
+2D/kNN,default_0.5,0.5,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.3333333333333333,0,0
+2D/kNN,default_0.5,0.5,Phenytoin + Magnesium oxide,1775,14792,False,1,0.6666666666666666,1,1
+2D/kNN,default_0.5,0.5,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.0,0,0
+2D/kNN,default_0.5,0.5,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.0,0,0
+2D/kNN,default_0.5,0.5,Fluvoxamine + Lactose,5324346,6134,False,1,0.0,0,0
+2D/kNN,default_0.5,0.5,Acetazolamide + Lactose,1986,6134,False,1,0.3333333333333333,0,0
+2D/kNN,default_0.5,0.5,Acetazolamide + Mannitol,1986,6251,False,1,0.6666666666666666,1,1
+2D/kNN,default_0.5,0.5,Phenytoin sodium + Lactose,657302,6134,False,1,0.3333333333333333,0,0
+2D/kNN,default_0.5,0.5,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,1.0,1,1
+2D/kNN,default_0.5,0.5,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.3333333333333333,0,0
+2D/kNN,default_0.5,0.5,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.0,0,0
+2D/kNN,default_0.5,0.5,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.0,0,0
+2D/kNN,default_0.5,0.5,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.6666666666666666,1,0
+2D/kNN,default_0.5,0.5,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,1.0,1,0
+2D/kNN,default_0.5,0.5,GABAPENTIN + MANNITOL,3446,6251,False,0,1.0,1,0
+2D/kNN,default_0.5,0.5,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.0,0,1
+2D/kNN,default_0.5,0.5,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.0,0,1
+2D/kNN,default_0.5,0.5,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.6666666666666666,1,0
+2D/kNN,default_0.5,0.5,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.0,0,1
+2D/kNN,default_0.5,0.5,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,1.0,1,0
+2D/kNN,default_0.5,0.5,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.6666666666666666,1,0
+2D/kNN,default_0.5,0.5,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.3333333333333333,0,1
+2D/kNN,default_0.5,0.5,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.0,0,1
+2D/kNN,default_0.5,0.5,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,1.0,1,0
+2D/kNN,f1_val,0.334,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.3333333333333333,0,0
+2D/kNN,f1_val,0.334,Phenytoin + Magnesium oxide,1775,14792,False,1,0.6666666666666666,1,1
+2D/kNN,f1_val,0.334,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.0,0,0
+2D/kNN,f1_val,0.334,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.0,0,0
+2D/kNN,f1_val,0.334,Fluvoxamine + Lactose,5324346,6134,False,1,0.0,0,0
+2D/kNN,f1_val,0.334,Acetazolamide + Lactose,1986,6134,False,1,0.3333333333333333,0,0
+2D/kNN,f1_val,0.334,Acetazolamide + Mannitol,1986,6251,False,1,0.6666666666666666,1,1
+2D/kNN,f1_val,0.334,Phenytoin sodium + Lactose,657302,6134,False,1,0.3333333333333333,0,0
+2D/kNN,f1_val,0.334,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,1.0,1,1
+2D/kNN,f1_val,0.334,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.3333333333333333,0,0
+2D/kNN,f1_val,0.334,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.0,0,0
+2D/kNN,f1_val,0.334,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.0,0,0
+2D/kNN,f1_val,0.334,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.6666666666666666,1,0
+2D/kNN,f1_val,0.334,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,1.0,1,0
+2D/kNN,f1_val,0.334,GABAPENTIN + MANNITOL,3446,6251,False,0,1.0,1,0
+2D/kNN,f1_val,0.334,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.0,0,1
+2D/kNN,f1_val,0.334,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.0,0,1
+2D/kNN,f1_val,0.334,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.6666666666666666,1,0
+2D/kNN,f1_val,0.334,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.0,0,1
+2D/kNN,f1_val,0.334,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,1.0,1,0
+2D/kNN,f1_val,0.334,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.6666666666666666,1,0
+2D/kNN,f1_val,0.334,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.3333333333333333,0,1
+2D/kNN,f1_val,0.334,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.0,0,1
+2D/kNN,f1_val,0.334,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,1.0,1,0
+2D/kNN,paper_f1_0.202,0.202,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.3333333333333333,1,1
+2D/kNN,paper_f1_0.202,0.202,Phenytoin + Magnesium oxide,1775,14792,False,1,0.6666666666666666,1,1
+2D/kNN,paper_f1_0.202,0.202,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.0,0,0
+2D/kNN,paper_f1_0.202,0.202,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.0,0,0
+2D/kNN,paper_f1_0.202,0.202,Fluvoxamine + Lactose,5324346,6134,False,1,0.0,0,0
+2D/kNN,paper_f1_0.202,0.202,Acetazolamide + Lactose,1986,6134,False,1,0.3333333333333333,1,1
+2D/kNN,paper_f1_0.202,0.202,Acetazolamide + Mannitol,1986,6251,False,1,0.6666666666666666,1,1
+2D/kNN,paper_f1_0.202,0.202,Phenytoin sodium + Lactose,657302,6134,False,1,0.3333333333333333,1,1
+2D/kNN,paper_f1_0.202,0.202,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,1.0,1,1
+2D/kNN,paper_f1_0.202,0.202,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.3333333333333333,1,1
+2D/kNN,paper_f1_0.202,0.202,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.0,0,0
+2D/kNN,paper_f1_0.202,0.202,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.0,0,0
+2D/kNN,paper_f1_0.202,0.202,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.6666666666666666,1,0
+2D/kNN,paper_f1_0.202,0.202,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,1.0,1,0
+2D/kNN,paper_f1_0.202,0.202,GABAPENTIN + MANNITOL,3446,6251,False,0,1.0,1,0
+2D/kNN,paper_f1_0.202,0.202,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.0,0,1
+2D/kNN,paper_f1_0.202,0.202,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.0,0,1
+2D/kNN,paper_f1_0.202,0.202,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.6666666666666666,1,0
+2D/kNN,paper_f1_0.202,0.202,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.0,0,1
+2D/kNN,paper_f1_0.202,0.202,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,1.0,1,0
+2D/kNN,paper_f1_0.202,0.202,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.6666666666666666,1,0
+2D/kNN,paper_f1_0.202,0.202,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.3333333333333333,1,0
+2D/kNN,paper_f1_0.202,0.202,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.0,0,1
+2D/kNN,paper_f1_0.202,0.202,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,1.0,1,0
+2D/kNN,paper_ghost_0.020,0.02,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.3333333333333333,1,1
+2D/kNN,paper_ghost_0.020,0.02,Phenytoin + Magnesium oxide,1775,14792,False,1,0.6666666666666666,1,1
+2D/kNN,paper_ghost_0.020,0.02,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.0,0,0
+2D/kNN,paper_ghost_0.020,0.02,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.0,0,0
+2D/kNN,paper_ghost_0.020,0.02,Fluvoxamine + Lactose,5324346,6134,False,1,0.0,0,0
+2D/kNN,paper_ghost_0.020,0.02,Acetazolamide + Lactose,1986,6134,False,1,0.3333333333333333,1,1
+2D/kNN,paper_ghost_0.020,0.02,Acetazolamide + Mannitol,1986,6251,False,1,0.6666666666666666,1,1
+2D/kNN,paper_ghost_0.020,0.02,Phenytoin sodium + Lactose,657302,6134,False,1,0.3333333333333333,1,1
+2D/kNN,paper_ghost_0.020,0.02,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,1.0,1,1
+2D/kNN,paper_ghost_0.020,0.02,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.3333333333333333,1,1
+2D/kNN,paper_ghost_0.020,0.02,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.0,0,0
+2D/kNN,paper_ghost_0.020,0.02,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.0,0,0
+2D/kNN,paper_ghost_0.020,0.02,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.6666666666666666,1,0
+2D/kNN,paper_ghost_0.020,0.02,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,1.0,1,0
+2D/kNN,paper_ghost_0.020,0.02,GABAPENTIN + MANNITOL,3446,6251,False,0,1.0,1,0
+2D/kNN,paper_ghost_0.020,0.02,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.0,0,1
+2D/kNN,paper_ghost_0.020,0.02,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.0,0,1
+2D/kNN,paper_ghost_0.020,0.02,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.6666666666666666,1,0
+2D/kNN,paper_ghost_0.020,0.02,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.0,0,1
+2D/kNN,paper_ghost_0.020,0.02,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,1.0,1,0
+2D/kNN,paper_ghost_0.020,0.02,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.6666666666666666,1,0
+2D/kNN,paper_ghost_0.020,0.02,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.3333333333333333,1,0
+2D/kNN,paper_ghost_0.020,0.02,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.0,0,1
+2D/kNN,paper_ghost_0.020,0.02,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,1.0,1,0
+2D/LogisticRegression,default_0.5,0.5,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.3630146770753599,0,0
+2D/LogisticRegression,default_0.5,0.5,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9828456382313282,1,1
+2D/LogisticRegression,default_0.5,0.5,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.13114660352056215,0,0
+2D/LogisticRegression,default_0.5,0.5,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.1882058276974894,0,0
+2D/LogisticRegression,default_0.5,0.5,Fluvoxamine + Lactose,5324346,6134,False,1,0.04940746573244592,0,0
+2D/LogisticRegression,default_0.5,0.5,Acetazolamide + Lactose,1986,6134,False,1,0.07910191605826798,0,0
+2D/LogisticRegression,default_0.5,0.5,Acetazolamide + Mannitol,1986,6251,False,1,0.1799255559083948,0,0
+2D/LogisticRegression,default_0.5,0.5,Phenytoin sodium + Lactose,657302,6134,False,1,0.22231559188894096,0,0
+2D/LogisticRegression,default_0.5,0.5,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.7155894429794982,1,1
+2D/LogisticRegression,default_0.5,0.5,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.13237697076260493,0,0
+2D/LogisticRegression,default_0.5,0.5,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,3.0428617183222392e-06,0,0
+2D/LogisticRegression,default_0.5,0.5,Quercetin + Magnesium carbonate,5280343,11029,False,1,5.0915306957148357e-08,0,0
+2D/LogisticRegression,default_0.5,0.5,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.5995831169921159,1,0
+2D/LogisticRegression,default_0.5,0.5,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.377013852586105,0,1
+2D/LogisticRegression,default_0.5,0.5,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9437842986733199,1,0
+2D/LogisticRegression,default_0.5,0.5,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.011177114484096232,0,1
+2D/LogisticRegression,default_0.5,0.5,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.7850572956190573,1,0
+2D/LogisticRegression,default_0.5,0.5,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.0035786768576632918,0,1
+2D/LogisticRegression,default_0.5,0.5,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,2.5303421489418974e-05,0,1
+2D/LogisticRegression,default_0.5,0.5,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.00015326910479802726,0,1
+2D/LogisticRegression,default_0.5,0.5,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.99394208068233,1,0
+2D/LogisticRegression,default_0.5,0.5,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.49819426660803545,0,1
+2D/LogisticRegression,default_0.5,0.5,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.5137680306913952,1,0
+2D/LogisticRegression,default_0.5,0.5,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.888160535064389,1,0
+2D/LogisticRegression,f1_val,0.823,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.3630146770753599,0,0
+2D/LogisticRegression,f1_val,0.823,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9828456382313282,1,1
+2D/LogisticRegression,f1_val,0.823,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.13114660352056215,0,0
+2D/LogisticRegression,f1_val,0.823,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.1882058276974894,0,0
+2D/LogisticRegression,f1_val,0.823,Fluvoxamine + Lactose,5324346,6134,False,1,0.04940746573244592,0,0
+2D/LogisticRegression,f1_val,0.823,Acetazolamide + Lactose,1986,6134,False,1,0.07910191605826798,0,0
+2D/LogisticRegression,f1_val,0.823,Acetazolamide + Mannitol,1986,6251,False,1,0.1799255559083948,0,0
+2D/LogisticRegression,f1_val,0.823,Phenytoin sodium + Lactose,657302,6134,False,1,0.22231559188894096,0,0
+2D/LogisticRegression,f1_val,0.823,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.7155894429794982,0,0
+2D/LogisticRegression,f1_val,0.823,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.13237697076260493,0,0
+2D/LogisticRegression,f1_val,0.823,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,3.0428617183222392e-06,0,0
+2D/LogisticRegression,f1_val,0.823,Quercetin + Magnesium carbonate,5280343,11029,False,1,5.0915306957148357e-08,0,0
+2D/LogisticRegression,f1_val,0.823,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.5995831169921159,0,1
+2D/LogisticRegression,f1_val,0.823,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.377013852586105,0,1
+2D/LogisticRegression,f1_val,0.823,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9437842986733199,1,0
+2D/LogisticRegression,f1_val,0.823,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.011177114484096232,0,1
+2D/LogisticRegression,f1_val,0.823,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.7850572956190573,0,1
+2D/LogisticRegression,f1_val,0.823,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.0035786768576632918,0,1
+2D/LogisticRegression,f1_val,0.823,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,2.5303421489418974e-05,0,1
+2D/LogisticRegression,f1_val,0.823,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.00015326910479802726,0,1
+2D/LogisticRegression,f1_val,0.823,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.99394208068233,1,0
+2D/LogisticRegression,f1_val,0.823,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.49819426660803545,0,1
+2D/LogisticRegression,f1_val,0.823,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.5137680306913952,0,1
+2D/LogisticRegression,f1_val,0.823,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.888160535064389,1,0
+2D/LogisticRegression,paper_f1_0.202,0.202,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.3630146770753599,1,1
+2D/LogisticRegression,paper_f1_0.202,0.202,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9828456382313282,1,1
+2D/LogisticRegression,paper_f1_0.202,0.202,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.13114660352056215,0,0
+2D/LogisticRegression,paper_f1_0.202,0.202,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.1882058276974894,0,0
+2D/LogisticRegression,paper_f1_0.202,0.202,Fluvoxamine + Lactose,5324346,6134,False,1,0.04940746573244592,0,0
+2D/LogisticRegression,paper_f1_0.202,0.202,Acetazolamide + Lactose,1986,6134,False,1,0.07910191605826798,0,0
+2D/LogisticRegression,paper_f1_0.202,0.202,Acetazolamide + Mannitol,1986,6251,False,1,0.1799255559083948,0,0
+2D/LogisticRegression,paper_f1_0.202,0.202,Phenytoin sodium + Lactose,657302,6134,False,1,0.22231559188894096,1,1
+2D/LogisticRegression,paper_f1_0.202,0.202,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.7155894429794982,1,1
+2D/LogisticRegression,paper_f1_0.202,0.202,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.13237697076260493,0,0
+2D/LogisticRegression,paper_f1_0.202,0.202,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,3.0428617183222392e-06,0,0
+2D/LogisticRegression,paper_f1_0.202,0.202,Quercetin + Magnesium carbonate,5280343,11029,False,1,5.0915306957148357e-08,0,0
+2D/LogisticRegression,paper_f1_0.202,0.202,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.5995831169921159,1,0
+2D/LogisticRegression,paper_f1_0.202,0.202,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.377013852586105,1,0
+2D/LogisticRegression,paper_f1_0.202,0.202,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9437842986733199,1,0
+2D/LogisticRegression,paper_f1_0.202,0.202,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.011177114484096232,0,1
+2D/LogisticRegression,paper_f1_0.202,0.202,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.7850572956190573,1,0
+2D/LogisticRegression,paper_f1_0.202,0.202,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.0035786768576632918,0,1
+2D/LogisticRegression,paper_f1_0.202,0.202,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,2.5303421489418974e-05,0,1
+2D/LogisticRegression,paper_f1_0.202,0.202,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.00015326910479802726,0,1
+2D/LogisticRegression,paper_f1_0.202,0.202,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.99394208068233,1,0
+2D/LogisticRegression,paper_f1_0.202,0.202,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.49819426660803545,1,0
+2D/LogisticRegression,paper_f1_0.202,0.202,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.5137680306913952,1,0
+2D/LogisticRegression,paper_f1_0.202,0.202,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.888160535064389,1,0
+2D/LogisticRegression,paper_ghost_0.020,0.02,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.3630146770753599,1,1
+2D/LogisticRegression,paper_ghost_0.020,0.02,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9828456382313282,1,1
+2D/LogisticRegression,paper_ghost_0.020,0.02,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.13114660352056215,1,1
+2D/LogisticRegression,paper_ghost_0.020,0.02,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.1882058276974894,1,1
+2D/LogisticRegression,paper_ghost_0.020,0.02,Fluvoxamine + Lactose,5324346,6134,False,1,0.04940746573244592,1,1
+2D/LogisticRegression,paper_ghost_0.020,0.02,Acetazolamide + Lactose,1986,6134,False,1,0.07910191605826798,1,1
+2D/LogisticRegression,paper_ghost_0.020,0.02,Acetazolamide + Mannitol,1986,6251,False,1,0.1799255559083948,1,1
+2D/LogisticRegression,paper_ghost_0.020,0.02,Phenytoin sodium + Lactose,657302,6134,False,1,0.22231559188894096,1,1
+2D/LogisticRegression,paper_ghost_0.020,0.02,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.7155894429794982,1,1
+2D/LogisticRegression,paper_ghost_0.020,0.02,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.13237697076260493,1,1
+2D/LogisticRegression,paper_ghost_0.020,0.02,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,3.0428617183222392e-06,0,0
+2D/LogisticRegression,paper_ghost_0.020,0.02,Quercetin + Magnesium carbonate,5280343,11029,False,1,5.0915306957148357e-08,0,0
+2D/LogisticRegression,paper_ghost_0.020,0.02,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.5995831169921159,1,0
+2D/LogisticRegression,paper_ghost_0.020,0.02,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.377013852586105,1,0
+2D/LogisticRegression,paper_ghost_0.020,0.02,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9437842986733199,1,0
+2D/LogisticRegression,paper_ghost_0.020,0.02,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.011177114484096232,0,1
+2D/LogisticRegression,paper_ghost_0.020,0.02,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.7850572956190573,1,0
+2D/LogisticRegression,paper_ghost_0.020,0.02,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.0035786768576632918,0,1
+2D/LogisticRegression,paper_ghost_0.020,0.02,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,2.5303421489418974e-05,0,1
+2D/LogisticRegression,paper_ghost_0.020,0.02,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.00015326910479802726,0,1
+2D/LogisticRegression,paper_ghost_0.020,0.02,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.99394208068233,1,0
+2D/LogisticRegression,paper_ghost_0.020,0.02,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.49819426660803545,1,0
+2D/LogisticRegression,paper_ghost_0.020,0.02,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.5137680306913952,1,0
+2D/LogisticRegression,paper_ghost_0.020,0.02,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.888160535064389,1,0
+2D/XGBoost,default_0.5,0.5,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.12116311490535736,0,0
+2D/XGBoost,default_0.5,0.5,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9830381870269775,1,1
+2D/XGBoost,default_0.5,0.5,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.8221539855003357,1,1
+2D/XGBoost,default_0.5,0.5,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.39339739084243774,0,0
+2D/XGBoost,default_0.5,0.5,Fluvoxamine + Lactose,5324346,6134,False,1,0.07750330120325089,0,0
+2D/XGBoost,default_0.5,0.5,Acetazolamide + Lactose,1986,6134,False,1,0.05016389116644859,0,0
+2D/XGBoost,default_0.5,0.5,Acetazolamide + Mannitol,1986,6251,False,1,0.05143015459179878,0,0
+2D/XGBoost,default_0.5,0.5,Phenytoin sodium + Lactose,657302,6134,False,1,0.33648139238357544,0,0
+2D/XGBoost,default_0.5,0.5,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.7058741450309753,1,1
+2D/XGBoost,default_0.5,0.5,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.6306368708610535,1,1
+2D/XGBoost,default_0.5,0.5,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.25537270307540894,0,0
+2D/XGBoost,default_0.5,0.5,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.31954964995384216,0,0
+2D/XGBoost,default_0.5,0.5,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.8353467583656311,1,0
+2D/XGBoost,default_0.5,0.5,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.9363976716995239,1,0
+2D/XGBoost,default_0.5,0.5,GABAPENTIN + MANNITOL,3446,6251,False,0,0.42700356245040894,0,1
+2D/XGBoost,default_0.5,0.5,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.0005398255307227373,0,1
+2D/XGBoost,default_0.5,0.5,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.22043122351169586,0,1
+2D/XGBoost,default_0.5,0.5,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.6771782636642456,1,0
+2D/XGBoost,default_0.5,0.5,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,9.538253652863204e-05,0,1
+2D/XGBoost,default_0.5,0.5,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.4579668343067169,0,1
+2D/XGBoost,default_0.5,0.5,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.6496283411979675,1,0
+2D/XGBoost,default_0.5,0.5,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.040531400591135025,0,1
+2D/XGBoost,default_0.5,0.5,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.16066889464855194,0,1
+2D/XGBoost,default_0.5,0.5,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.41157209873199463,0,1
+2D/XGBoost,f1_val,0.944,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.12116311490535736,0,0
+2D/XGBoost,f1_val,0.944,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9830381870269775,1,1
+2D/XGBoost,f1_val,0.944,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.8221539855003357,0,0
+2D/XGBoost,f1_val,0.944,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.39339739084243774,0,0
+2D/XGBoost,f1_val,0.944,Fluvoxamine + Lactose,5324346,6134,False,1,0.07750330120325089,0,0
+2D/XGBoost,f1_val,0.944,Acetazolamide + Lactose,1986,6134,False,1,0.05016389116644859,0,0
+2D/XGBoost,f1_val,0.944,Acetazolamide + Mannitol,1986,6251,False,1,0.05143015459179878,0,0
+2D/XGBoost,f1_val,0.944,Phenytoin sodium + Lactose,657302,6134,False,1,0.33648139238357544,0,0
+2D/XGBoost,f1_val,0.944,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.7058741450309753,0,0
+2D/XGBoost,f1_val,0.944,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.6306368708610535,0,0
+2D/XGBoost,f1_val,0.944,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.25537270307540894,0,0
+2D/XGBoost,f1_val,0.944,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.31954964995384216,0,0
+2D/XGBoost,f1_val,0.944,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.8353467583656311,0,1
+2D/XGBoost,f1_val,0.944,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.9363976716995239,0,1
+2D/XGBoost,f1_val,0.944,GABAPENTIN + MANNITOL,3446,6251,False,0,0.42700356245040894,0,1
+2D/XGBoost,f1_val,0.944,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.0005398255307227373,0,1
+2D/XGBoost,f1_val,0.944,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.22043122351169586,0,1
+2D/XGBoost,f1_val,0.944,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.6771782636642456,0,1
+2D/XGBoost,f1_val,0.944,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,9.538253652863204e-05,0,1
+2D/XGBoost,f1_val,0.944,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.4579668343067169,0,1
+2D/XGBoost,f1_val,0.944,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.6496283411979675,0,1
+2D/XGBoost,f1_val,0.944,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.040531400591135025,0,1
+2D/XGBoost,f1_val,0.944,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.16066889464855194,0,1
+2D/XGBoost,f1_val,0.944,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.41157209873199463,0,1
+2D/XGBoost,paper_f1_0.202,0.202,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.12116311490535736,0,0
+2D/XGBoost,paper_f1_0.202,0.202,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9830381870269775,1,1
+2D/XGBoost,paper_f1_0.202,0.202,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.8221539855003357,1,1
+2D/XGBoost,paper_f1_0.202,0.202,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.39339739084243774,1,1
+2D/XGBoost,paper_f1_0.202,0.202,Fluvoxamine + Lactose,5324346,6134,False,1,0.07750330120325089,0,0
+2D/XGBoost,paper_f1_0.202,0.202,Acetazolamide + Lactose,1986,6134,False,1,0.05016389116644859,0,0
+2D/XGBoost,paper_f1_0.202,0.202,Acetazolamide + Mannitol,1986,6251,False,1,0.05143015459179878,0,0
+2D/XGBoost,paper_f1_0.202,0.202,Phenytoin sodium + Lactose,657302,6134,False,1,0.33648139238357544,1,1
+2D/XGBoost,paper_f1_0.202,0.202,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.7058741450309753,1,1
+2D/XGBoost,paper_f1_0.202,0.202,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.6306368708610535,1,1
+2D/XGBoost,paper_f1_0.202,0.202,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.25537270307540894,1,1
+2D/XGBoost,paper_f1_0.202,0.202,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.31954964995384216,1,1
+2D/XGBoost,paper_f1_0.202,0.202,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.8353467583656311,1,0
+2D/XGBoost,paper_f1_0.202,0.202,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.9363976716995239,1,0
+2D/XGBoost,paper_f1_0.202,0.202,GABAPENTIN + MANNITOL,3446,6251,False,0,0.42700356245040894,1,0
+2D/XGBoost,paper_f1_0.202,0.202,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.0005398255307227373,0,1
+2D/XGBoost,paper_f1_0.202,0.202,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.22043122351169586,1,0
+2D/XGBoost,paper_f1_0.202,0.202,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.6771782636642456,1,0
+2D/XGBoost,paper_f1_0.202,0.202,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,9.538253652863204e-05,0,1
+2D/XGBoost,paper_f1_0.202,0.202,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.4579668343067169,1,0
+2D/XGBoost,paper_f1_0.202,0.202,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.6496283411979675,1,0
+2D/XGBoost,paper_f1_0.202,0.202,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.040531400591135025,0,1
+2D/XGBoost,paper_f1_0.202,0.202,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.16066889464855194,0,1
+2D/XGBoost,paper_f1_0.202,0.202,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.41157209873199463,1,0
+2D/XGBoost,paper_ghost_0.020,0.02,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.12116311490535736,1,1
+2D/XGBoost,paper_ghost_0.020,0.02,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9830381870269775,1,1
+2D/XGBoost,paper_ghost_0.020,0.02,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.8221539855003357,1,1
+2D/XGBoost,paper_ghost_0.020,0.02,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.39339739084243774,1,1
+2D/XGBoost,paper_ghost_0.020,0.02,Fluvoxamine + Lactose,5324346,6134,False,1,0.07750330120325089,1,1
+2D/XGBoost,paper_ghost_0.020,0.02,Acetazolamide + Lactose,1986,6134,False,1,0.05016389116644859,1,1
+2D/XGBoost,paper_ghost_0.020,0.02,Acetazolamide + Mannitol,1986,6251,False,1,0.05143015459179878,1,1
+2D/XGBoost,paper_ghost_0.020,0.02,Phenytoin sodium + Lactose,657302,6134,False,1,0.33648139238357544,1,1
+2D/XGBoost,paper_ghost_0.020,0.02,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.7058741450309753,1,1
+2D/XGBoost,paper_ghost_0.020,0.02,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.6306368708610535,1,1
+2D/XGBoost,paper_ghost_0.020,0.02,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.25537270307540894,1,1
+2D/XGBoost,paper_ghost_0.020,0.02,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.31954964995384216,1,1
+2D/XGBoost,paper_ghost_0.020,0.02,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.8353467583656311,1,0
+2D/XGBoost,paper_ghost_0.020,0.02,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.9363976716995239,1,0
+2D/XGBoost,paper_ghost_0.020,0.02,GABAPENTIN + MANNITOL,3446,6251,False,0,0.42700356245040894,1,0
+2D/XGBoost,paper_ghost_0.020,0.02,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.0005398255307227373,0,1
+2D/XGBoost,paper_ghost_0.020,0.02,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.22043122351169586,1,0
+2D/XGBoost,paper_ghost_0.020,0.02,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.6771782636642456,1,0
+2D/XGBoost,paper_ghost_0.020,0.02,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,9.538253652863204e-05,0,1
+2D/XGBoost,paper_ghost_0.020,0.02,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.4579668343067169,1,0
+2D/XGBoost,paper_ghost_0.020,0.02,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.6496283411979675,1,0
+2D/XGBoost,paper_ghost_0.020,0.02,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.040531400591135025,1,0
+2D/XGBoost,paper_ghost_0.020,0.02,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.16066889464855194,1,0
+2D/XGBoost,paper_ghost_0.020,0.02,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.41157209873199463,1,0
+2D/AdaBoost,default_0.5,0.5,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.41917015136499486,0,0
+2D/AdaBoost,default_0.5,0.5,Phenytoin + Magnesium oxide,1775,14792,False,1,0.607350165579202,1,1
+2D/AdaBoost,default_0.5,0.5,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.5957614576222088,1,1
+2D/AdaBoost,default_0.5,0.5,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.47412087811722936,0,0
+2D/AdaBoost,default_0.5,0.5,Fluvoxamine + Lactose,5324346,6134,False,1,0.46692235129679294,0,0
+2D/AdaBoost,default_0.5,0.5,Acetazolamide + Lactose,1986,6134,False,1,0.4290227234961681,0,0
+2D/AdaBoost,default_0.5,0.5,Acetazolamide + Mannitol,1986,6251,False,1,0.430084344700985,0,0
+2D/AdaBoost,default_0.5,0.5,Phenytoin sodium + Lactose,657302,6134,False,1,0.4327959109966852,0,0
+2D/AdaBoost,default_0.5,0.5,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.4571262966846761,0,0
+2D/AdaBoost,default_0.5,0.5,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.4988998462789723,0,0
+2D/AdaBoost,default_0.5,0.5,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.46621635644980136,0,0
+2D/AdaBoost,default_0.5,0.5,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.477534817496376,0,0
+2D/AdaBoost,default_0.5,0.5,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.5750529453448888,1,0
+2D/AdaBoost,default_0.5,0.5,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.5772956325947597,1,0
+2D/AdaBoost,default_0.5,0.5,GABAPENTIN + MANNITOL,3446,6251,False,0,0.5199807436860187,1,0
+2D/AdaBoost,default_0.5,0.5,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.45567661115999814,0,1
+2D/AdaBoost,default_0.5,0.5,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.49037041464150516,0,1
+2D/AdaBoost,default_0.5,0.5,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.5325382684198509,1,0
+2D/AdaBoost,default_0.5,0.5,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.3412388819828899,0,1
+2D/AdaBoost,default_0.5,0.5,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.465541811169338,0,1
+2D/AdaBoost,default_0.5,0.5,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.46254984529879906,0,1
+2D/AdaBoost,default_0.5,0.5,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.43845706284722913,0,1
+2D/AdaBoost,default_0.5,0.5,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.46808926535999235,0,1
+2D/AdaBoost,default_0.5,0.5,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.5375106018521756,1,0
+2D/AdaBoost,f1_val,0.552,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.41917015136499486,0,0
+2D/AdaBoost,f1_val,0.552,Phenytoin + Magnesium oxide,1775,14792,False,1,0.607350165579202,1,1
+2D/AdaBoost,f1_val,0.552,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.5957614576222088,1,1
+2D/AdaBoost,f1_val,0.552,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.47412087811722936,0,0
+2D/AdaBoost,f1_val,0.552,Fluvoxamine + Lactose,5324346,6134,False,1,0.46692235129679294,0,0
+2D/AdaBoost,f1_val,0.552,Acetazolamide + Lactose,1986,6134,False,1,0.4290227234961681,0,0
+2D/AdaBoost,f1_val,0.552,Acetazolamide + Mannitol,1986,6251,False,1,0.430084344700985,0,0
+2D/AdaBoost,f1_val,0.552,Phenytoin sodium + Lactose,657302,6134,False,1,0.4327959109966852,0,0
+2D/AdaBoost,f1_val,0.552,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.4571262966846761,0,0
+2D/AdaBoost,f1_val,0.552,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.4988998462789723,0,0
+2D/AdaBoost,f1_val,0.552,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.46621635644980136,0,0
+2D/AdaBoost,f1_val,0.552,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.477534817496376,0,0
+2D/AdaBoost,f1_val,0.552,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.5750529453448888,1,0
+2D/AdaBoost,f1_val,0.552,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.5772956325947597,1,0
+2D/AdaBoost,f1_val,0.552,GABAPENTIN + MANNITOL,3446,6251,False,0,0.5199807436860187,0,1
+2D/AdaBoost,f1_val,0.552,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.45567661115999814,0,1
+2D/AdaBoost,f1_val,0.552,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.49037041464150516,0,1
+2D/AdaBoost,f1_val,0.552,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.5325382684198509,0,1
+2D/AdaBoost,f1_val,0.552,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.3412388819828899,0,1
+2D/AdaBoost,f1_val,0.552,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.465541811169338,0,1
+2D/AdaBoost,f1_val,0.552,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.46254984529879906,0,1
+2D/AdaBoost,f1_val,0.552,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.43845706284722913,0,1
+2D/AdaBoost,f1_val,0.552,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.46808926535999235,0,1
+2D/AdaBoost,f1_val,0.552,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.5375106018521756,0,1
+2D/AdaBoost,paper_f1_0.202,0.202,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.41917015136499486,1,1
+2D/AdaBoost,paper_f1_0.202,0.202,Phenytoin + Magnesium oxide,1775,14792,False,1,0.607350165579202,1,1
+2D/AdaBoost,paper_f1_0.202,0.202,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.5957614576222088,1,1
+2D/AdaBoost,paper_f1_0.202,0.202,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.47412087811722936,1,1
+2D/AdaBoost,paper_f1_0.202,0.202,Fluvoxamine + Lactose,5324346,6134,False,1,0.46692235129679294,1,1
+2D/AdaBoost,paper_f1_0.202,0.202,Acetazolamide + Lactose,1986,6134,False,1,0.4290227234961681,1,1
+2D/AdaBoost,paper_f1_0.202,0.202,Acetazolamide + Mannitol,1986,6251,False,1,0.430084344700985,1,1
+2D/AdaBoost,paper_f1_0.202,0.202,Phenytoin sodium + Lactose,657302,6134,False,1,0.4327959109966852,1,1
+2D/AdaBoost,paper_f1_0.202,0.202,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.4571262966846761,1,1
+2D/AdaBoost,paper_f1_0.202,0.202,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.4988998462789723,1,1
+2D/AdaBoost,paper_f1_0.202,0.202,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.46621635644980136,1,1
+2D/AdaBoost,paper_f1_0.202,0.202,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.477534817496376,1,1
+2D/AdaBoost,paper_f1_0.202,0.202,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.5750529453448888,1,0
+2D/AdaBoost,paper_f1_0.202,0.202,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.5772956325947597,1,0
+2D/AdaBoost,paper_f1_0.202,0.202,GABAPENTIN + MANNITOL,3446,6251,False,0,0.5199807436860187,1,0
+2D/AdaBoost,paper_f1_0.202,0.202,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.45567661115999814,1,0
+2D/AdaBoost,paper_f1_0.202,0.202,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.49037041464150516,1,0
+2D/AdaBoost,paper_f1_0.202,0.202,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.5325382684198509,1,0
+2D/AdaBoost,paper_f1_0.202,0.202,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.3412388819828899,1,0
+2D/AdaBoost,paper_f1_0.202,0.202,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.465541811169338,1,0
+2D/AdaBoost,paper_f1_0.202,0.202,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.46254984529879906,1,0
+2D/AdaBoost,paper_f1_0.202,0.202,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.43845706284722913,1,0
+2D/AdaBoost,paper_f1_0.202,0.202,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.46808926535999235,1,0
+2D/AdaBoost,paper_f1_0.202,0.202,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.5375106018521756,1,0
+2D/AdaBoost,paper_ghost_0.020,0.02,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.41917015136499486,1,1
+2D/AdaBoost,paper_ghost_0.020,0.02,Phenytoin + Magnesium oxide,1775,14792,False,1,0.607350165579202,1,1
+2D/AdaBoost,paper_ghost_0.020,0.02,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.5957614576222088,1,1
+2D/AdaBoost,paper_ghost_0.020,0.02,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.47412087811722936,1,1
+2D/AdaBoost,paper_ghost_0.020,0.02,Fluvoxamine + Lactose,5324346,6134,False,1,0.46692235129679294,1,1
+2D/AdaBoost,paper_ghost_0.020,0.02,Acetazolamide + Lactose,1986,6134,False,1,0.4290227234961681,1,1
+2D/AdaBoost,paper_ghost_0.020,0.02,Acetazolamide + Mannitol,1986,6251,False,1,0.430084344700985,1,1
+2D/AdaBoost,paper_ghost_0.020,0.02,Phenytoin sodium + Lactose,657302,6134,False,1,0.4327959109966852,1,1
+2D/AdaBoost,paper_ghost_0.020,0.02,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.4571262966846761,1,1
+2D/AdaBoost,paper_ghost_0.020,0.02,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.4988998462789723,1,1
+2D/AdaBoost,paper_ghost_0.020,0.02,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.46621635644980136,1,1
+2D/AdaBoost,paper_ghost_0.020,0.02,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.477534817496376,1,1
+2D/AdaBoost,paper_ghost_0.020,0.02,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.5750529453448888,1,0
+2D/AdaBoost,paper_ghost_0.020,0.02,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.5772956325947597,1,0
+2D/AdaBoost,paper_ghost_0.020,0.02,GABAPENTIN + MANNITOL,3446,6251,False,0,0.5199807436860187,1,0
+2D/AdaBoost,paper_ghost_0.020,0.02,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.45567661115999814,1,0
+2D/AdaBoost,paper_ghost_0.020,0.02,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.49037041464150516,1,0
+2D/AdaBoost,paper_ghost_0.020,0.02,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.5325382684198509,1,0
+2D/AdaBoost,paper_ghost_0.020,0.02,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.3412388819828899,1,0
+2D/AdaBoost,paper_ghost_0.020,0.02,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.465541811169338,1,0
+2D/AdaBoost,paper_ghost_0.020,0.02,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.46254984529879906,1,0
+2D/AdaBoost,paper_ghost_0.020,0.02,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.43845706284722913,1,0
+2D/AdaBoost,paper_ghost_0.020,0.02,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.46808926535999235,1,0
+2D/AdaBoost,paper_ghost_0.020,0.02,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.5375106018521756,1,0
+mol2vec/stack_cw0.3:0.7,default_0.5,0.5,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.6840011268487185,1,1
+mol2vec/stack_cw0.3:0.7,default_0.5,0.5,Phenytoin + Magnesium oxide,1775,14792,False,1,0.8825128555304442,1,1
+mol2vec/stack_cw0.3:0.7,default_0.5,0.5,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.9250731865604374,1,1
+mol2vec/stack_cw0.3:0.7,default_0.5,0.5,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.7068378366976453,1,1
+mol2vec/stack_cw0.3:0.7,default_0.5,0.5,Fluvoxamine + Lactose,5324346,6134,False,1,0.3111491706932639,0,0
+mol2vec/stack_cw0.3:0.7,default_0.5,0.5,Acetazolamide + Lactose,1986,6134,False,1,0.7745675932825544,1,1
+mol2vec/stack_cw0.3:0.7,default_0.5,0.5,Acetazolamide + Mannitol,1986,6251,False,1,0.8482042422868832,1,1
+mol2vec/stack_cw0.3:0.7,default_0.5,0.5,Phenytoin sodium + Lactose,657302,6134,False,1,0.2889850900957741,0,0
+mol2vec/stack_cw0.3:0.7,default_0.5,0.5,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.7067355622129824,1,1
+mol2vec/stack_cw0.3:0.7,default_0.5,0.5,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.7004101403522148,1,1
+mol2vec/stack_cw0.3:0.7,default_0.5,0.5,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.3227754899330113,0,0
+mol2vec/stack_cw0.3:0.7,default_0.5,0.5,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.3521652283231564,0,0
+mol2vec/stack_cw0.3:0.7,default_0.5,0.5,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.9251419787787659,1,0
+mol2vec/stack_cw0.3:0.7,default_0.5,0.5,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.29265181879294727,0,1
+mol2vec/stack_cw0.3:0.7,default_0.5,0.5,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9474876399261116,1,0
+mol2vec/stack_cw0.3:0.7,default_0.5,0.5,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.06329760264424676,0,1
+mol2vec/stack_cw0.3:0.7,default_0.5,0.5,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.7976929962328917,1,0
+mol2vec/stack_cw0.3:0.7,default_0.5,0.5,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.9358692781062108,1,0
+mol2vec/stack_cw0.3:0.7,default_0.5,0.5,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.05161602452038,0,1
+mol2vec/stack_cw0.3:0.7,default_0.5,0.5,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.4526398972908255,0,1
+mol2vec/stack_cw0.3:0.7,default_0.5,0.5,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.807770055593605,1,0
+mol2vec/stack_cw0.3:0.7,default_0.5,0.5,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.12223042303971936,0,1
+mol2vec/stack_cw0.3:0.7,default_0.5,0.5,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.07544094833915818,0,1
+mol2vec/stack_cw0.3:0.7,default_0.5,0.5,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.29786834999390605,0,1
+mol2vec/stack_cw0.3:0.7,f1_val,0.589,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.6840011268487185,1,1
+mol2vec/stack_cw0.3:0.7,f1_val,0.589,Phenytoin + Magnesium oxide,1775,14792,False,1,0.8825128555304442,1,1
+mol2vec/stack_cw0.3:0.7,f1_val,0.589,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.9250731865604374,1,1
+mol2vec/stack_cw0.3:0.7,f1_val,0.589,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.7068378366976453,1,1
+mol2vec/stack_cw0.3:0.7,f1_val,0.589,Fluvoxamine + Lactose,5324346,6134,False,1,0.3111491706932639,0,0
+mol2vec/stack_cw0.3:0.7,f1_val,0.589,Acetazolamide + Lactose,1986,6134,False,1,0.7745675932825544,1,1
+mol2vec/stack_cw0.3:0.7,f1_val,0.589,Acetazolamide + Mannitol,1986,6251,False,1,0.8482042422868832,1,1
+mol2vec/stack_cw0.3:0.7,f1_val,0.589,Phenytoin sodium + Lactose,657302,6134,False,1,0.2889850900957741,0,0
+mol2vec/stack_cw0.3:0.7,f1_val,0.589,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.7067355622129824,1,1
+mol2vec/stack_cw0.3:0.7,f1_val,0.589,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.7004101403522148,1,1
+mol2vec/stack_cw0.3:0.7,f1_val,0.589,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.3227754899330113,0,0
+mol2vec/stack_cw0.3:0.7,f1_val,0.589,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.3521652283231564,0,0
+mol2vec/stack_cw0.3:0.7,f1_val,0.589,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.9251419787787659,1,0
+mol2vec/stack_cw0.3:0.7,f1_val,0.589,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.29265181879294727,0,1
+mol2vec/stack_cw0.3:0.7,f1_val,0.589,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9474876399261116,1,0
+mol2vec/stack_cw0.3:0.7,f1_val,0.589,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.06329760264424676,0,1
+mol2vec/stack_cw0.3:0.7,f1_val,0.589,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.7976929962328917,1,0
+mol2vec/stack_cw0.3:0.7,f1_val,0.589,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.9358692781062108,1,0
+mol2vec/stack_cw0.3:0.7,f1_val,0.589,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.05161602452038,0,1
+mol2vec/stack_cw0.3:0.7,f1_val,0.589,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.4526398972908255,0,1
+mol2vec/stack_cw0.3:0.7,f1_val,0.589,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.807770055593605,1,0
+mol2vec/stack_cw0.3:0.7,f1_val,0.589,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.12223042303971936,0,1
+mol2vec/stack_cw0.3:0.7,f1_val,0.589,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.07544094833915818,0,1
+mol2vec/stack_cw0.3:0.7,f1_val,0.589,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.29786834999390605,0,1
+mol2vec/stack_cw0.3:0.7,paper_f1_0.202,0.202,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.6840011268487185,1,1
+mol2vec/stack_cw0.3:0.7,paper_f1_0.202,0.202,Phenytoin + Magnesium oxide,1775,14792,False,1,0.8825128555304442,1,1
+mol2vec/stack_cw0.3:0.7,paper_f1_0.202,0.202,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.9250731865604374,1,1
+mol2vec/stack_cw0.3:0.7,paper_f1_0.202,0.202,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.7068378366976453,1,1
+mol2vec/stack_cw0.3:0.7,paper_f1_0.202,0.202,Fluvoxamine + Lactose,5324346,6134,False,1,0.3111491706932639,1,1
+mol2vec/stack_cw0.3:0.7,paper_f1_0.202,0.202,Acetazolamide + Lactose,1986,6134,False,1,0.7745675932825544,1,1
+mol2vec/stack_cw0.3:0.7,paper_f1_0.202,0.202,Acetazolamide + Mannitol,1986,6251,False,1,0.8482042422868832,1,1
+mol2vec/stack_cw0.3:0.7,paper_f1_0.202,0.202,Phenytoin sodium + Lactose,657302,6134,False,1,0.2889850900957741,1,1
+mol2vec/stack_cw0.3:0.7,paper_f1_0.202,0.202,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.7067355622129824,1,1
+mol2vec/stack_cw0.3:0.7,paper_f1_0.202,0.202,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.7004101403522148,1,1
+mol2vec/stack_cw0.3:0.7,paper_f1_0.202,0.202,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.3227754899330113,1,1
+mol2vec/stack_cw0.3:0.7,paper_f1_0.202,0.202,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.3521652283231564,1,1
+mol2vec/stack_cw0.3:0.7,paper_f1_0.202,0.202,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.9251419787787659,1,0
+mol2vec/stack_cw0.3:0.7,paper_f1_0.202,0.202,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.29265181879294727,1,0
+mol2vec/stack_cw0.3:0.7,paper_f1_0.202,0.202,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9474876399261116,1,0
+mol2vec/stack_cw0.3:0.7,paper_f1_0.202,0.202,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.06329760264424676,0,1
+mol2vec/stack_cw0.3:0.7,paper_f1_0.202,0.202,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.7976929962328917,1,0
+mol2vec/stack_cw0.3:0.7,paper_f1_0.202,0.202,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.9358692781062108,1,0
+mol2vec/stack_cw0.3:0.7,paper_f1_0.202,0.202,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.05161602452038,0,1
+mol2vec/stack_cw0.3:0.7,paper_f1_0.202,0.202,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.4526398972908255,1,0
+mol2vec/stack_cw0.3:0.7,paper_f1_0.202,0.202,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.807770055593605,1,0
+mol2vec/stack_cw0.3:0.7,paper_f1_0.202,0.202,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.12223042303971936,0,1
+mol2vec/stack_cw0.3:0.7,paper_f1_0.202,0.202,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.07544094833915818,0,1
+mol2vec/stack_cw0.3:0.7,paper_f1_0.202,0.202,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.29786834999390605,1,0
+mol2vec/stack_cw0.3:0.7,paper_ghost_0.020,0.02,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.6840011268487185,1,1
+mol2vec/stack_cw0.3:0.7,paper_ghost_0.020,0.02,Phenytoin + Magnesium oxide,1775,14792,False,1,0.8825128555304442,1,1
+mol2vec/stack_cw0.3:0.7,paper_ghost_0.020,0.02,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.9250731865604374,1,1
+mol2vec/stack_cw0.3:0.7,paper_ghost_0.020,0.02,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.7068378366976453,1,1
+mol2vec/stack_cw0.3:0.7,paper_ghost_0.020,0.02,Fluvoxamine + Lactose,5324346,6134,False,1,0.3111491706932639,1,1
+mol2vec/stack_cw0.3:0.7,paper_ghost_0.020,0.02,Acetazolamide + Lactose,1986,6134,False,1,0.7745675932825544,1,1
+mol2vec/stack_cw0.3:0.7,paper_ghost_0.020,0.02,Acetazolamide + Mannitol,1986,6251,False,1,0.8482042422868832,1,1
+mol2vec/stack_cw0.3:0.7,paper_ghost_0.020,0.02,Phenytoin sodium + Lactose,657302,6134,False,1,0.2889850900957741,1,1
+mol2vec/stack_cw0.3:0.7,paper_ghost_0.020,0.02,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.7067355622129824,1,1
+mol2vec/stack_cw0.3:0.7,paper_ghost_0.020,0.02,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.7004101403522148,1,1
+mol2vec/stack_cw0.3:0.7,paper_ghost_0.020,0.02,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.3227754899330113,1,1
+mol2vec/stack_cw0.3:0.7,paper_ghost_0.020,0.02,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.3521652283231564,1,1
+mol2vec/stack_cw0.3:0.7,paper_ghost_0.020,0.02,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.9251419787787659,1,0
+mol2vec/stack_cw0.3:0.7,paper_ghost_0.020,0.02,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.29265181879294727,1,0
+mol2vec/stack_cw0.3:0.7,paper_ghost_0.020,0.02,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9474876399261116,1,0
+mol2vec/stack_cw0.3:0.7,paper_ghost_0.020,0.02,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.06329760264424676,1,0
+mol2vec/stack_cw0.3:0.7,paper_ghost_0.020,0.02,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.7976929962328917,1,0
+mol2vec/stack_cw0.3:0.7,paper_ghost_0.020,0.02,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.9358692781062108,1,0
+mol2vec/stack_cw0.3:0.7,paper_ghost_0.020,0.02,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.05161602452038,1,0
+mol2vec/stack_cw0.3:0.7,paper_ghost_0.020,0.02,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.4526398972908255,1,0
+mol2vec/stack_cw0.3:0.7,paper_ghost_0.020,0.02,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.807770055593605,1,0
+mol2vec/stack_cw0.3:0.7,paper_ghost_0.020,0.02,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.12223042303971936,1,0
+mol2vec/stack_cw0.3:0.7,paper_ghost_0.020,0.02,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.07544094833915818,1,0
+mol2vec/stack_cw0.3:0.7,paper_ghost_0.020,0.02,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.29786834999390605,1,0
+2D/stack_cw0.3:0.7,default_0.5,0.5,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.13067024872684874,0,0
+2D/stack_cw0.3:0.7,default_0.5,0.5,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9426348250542829,1,1
+2D/stack_cw0.3:0.7,default_0.5,0.5,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.8691971854417683,1,1
+2D/stack_cw0.3:0.7,default_0.5,0.5,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.38757155078827654,0,0
+2D/stack_cw0.3:0.7,default_0.5,0.5,Fluvoxamine + Lactose,5324346,6134,False,1,0.2580453880532417,0,0
+2D/stack_cw0.3:0.7,default_0.5,0.5,Acetazolamide + Lactose,1986,6134,False,1,0.3079508746585339,0,0
+2D/stack_cw0.3:0.7,default_0.5,0.5,Acetazolamide + Mannitol,1986,6251,False,1,0.26582762826731915,0,0
+2D/stack_cw0.3:0.7,default_0.5,0.5,Phenytoin sodium + Lactose,657302,6134,False,1,0.6663522116598909,1,1
+2D/stack_cw0.3:0.7,default_0.5,0.5,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.8731747565057207,1,1
+2D/stack_cw0.3:0.7,default_0.5,0.5,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.567627944476189,1,1
+2D/stack_cw0.3:0.7,default_0.5,0.5,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.17190777799726298,0,0
+2D/stack_cw0.3:0.7,default_0.5,0.5,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.16533293002501673,0,0
+2D/stack_cw0.3:0.7,default_0.5,0.5,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.9415949496827193,1,0
+2D/stack_cw0.3:0.7,default_0.5,0.5,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.9341197642690745,1,0
+2D/stack_cw0.3:0.7,default_0.5,0.5,GABAPENTIN + MANNITOL,3446,6251,False,0,0.8726818410065945,1,0
+2D/stack_cw0.3:0.7,default_0.5,0.5,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.0632683531591022,0,1
+2D/stack_cw0.3:0.7,default_0.5,0.5,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.5788303093109606,1,0
+2D/stack_cw0.3:0.7,default_0.5,0.5,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.9080373194461743,1,0
+2D/stack_cw0.3:0.7,default_0.5,0.5,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.037374361451971774,0,1
+2D/stack_cw0.3:0.7,default_0.5,0.5,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.31006653228995,0,1
+2D/stack_cw0.3:0.7,default_0.5,0.5,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.6585176178569668,1,0
+2D/stack_cw0.3:0.7,default_0.5,0.5,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.1820399306166489,0,1
+2D/stack_cw0.3:0.7,default_0.5,0.5,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.062137228174372276,0,1
+2D/stack_cw0.3:0.7,default_0.5,0.5,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.6886423454106907,1,0
+2D/stack_cw0.3:0.7,f1_val,0.66,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.13067024872684874,0,0
+2D/stack_cw0.3:0.7,f1_val,0.66,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9426348250542829,1,1
+2D/stack_cw0.3:0.7,f1_val,0.66,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.8691971854417683,1,1
+2D/stack_cw0.3:0.7,f1_val,0.66,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.38757155078827654,0,0
+2D/stack_cw0.3:0.7,f1_val,0.66,Fluvoxamine + Lactose,5324346,6134,False,1,0.2580453880532417,0,0
+2D/stack_cw0.3:0.7,f1_val,0.66,Acetazolamide + Lactose,1986,6134,False,1,0.3079508746585339,0,0
+2D/stack_cw0.3:0.7,f1_val,0.66,Acetazolamide + Mannitol,1986,6251,False,1,0.26582762826731915,0,0
+2D/stack_cw0.3:0.7,f1_val,0.66,Phenytoin sodium + Lactose,657302,6134,False,1,0.6663522116598909,1,1
+2D/stack_cw0.3:0.7,f1_val,0.66,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.8731747565057207,1,1
+2D/stack_cw0.3:0.7,f1_val,0.66,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.567627944476189,0,0
+2D/stack_cw0.3:0.7,f1_val,0.66,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.17190777799726298,0,0
+2D/stack_cw0.3:0.7,f1_val,0.66,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.16533293002501673,0,0
+2D/stack_cw0.3:0.7,f1_val,0.66,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.9415949496827193,1,0
+2D/stack_cw0.3:0.7,f1_val,0.66,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.9341197642690745,1,0
+2D/stack_cw0.3:0.7,f1_val,0.66,GABAPENTIN + MANNITOL,3446,6251,False,0,0.8726818410065945,1,0
+2D/stack_cw0.3:0.7,f1_val,0.66,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.0632683531591022,0,1
+2D/stack_cw0.3:0.7,f1_val,0.66,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.5788303093109606,0,1
+2D/stack_cw0.3:0.7,f1_val,0.66,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.9080373194461743,1,0
+2D/stack_cw0.3:0.7,f1_val,0.66,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.037374361451971774,0,1
+2D/stack_cw0.3:0.7,f1_val,0.66,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.31006653228995,0,1
+2D/stack_cw0.3:0.7,f1_val,0.66,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.6585176178569668,0,1
+2D/stack_cw0.3:0.7,f1_val,0.66,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.1820399306166489,0,1
+2D/stack_cw0.3:0.7,f1_val,0.66,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.062137228174372276,0,1
+2D/stack_cw0.3:0.7,f1_val,0.66,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.6886423454106907,1,0
+2D/stack_cw0.3:0.7,paper_f1_0.202,0.202,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.13067024872684874,0,0
+2D/stack_cw0.3:0.7,paper_f1_0.202,0.202,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9426348250542829,1,1
+2D/stack_cw0.3:0.7,paper_f1_0.202,0.202,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.8691971854417683,1,1
+2D/stack_cw0.3:0.7,paper_f1_0.202,0.202,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.38757155078827654,1,1
+2D/stack_cw0.3:0.7,paper_f1_0.202,0.202,Fluvoxamine + Lactose,5324346,6134,False,1,0.2580453880532417,1,1
+2D/stack_cw0.3:0.7,paper_f1_0.202,0.202,Acetazolamide + Lactose,1986,6134,False,1,0.3079508746585339,1,1
+2D/stack_cw0.3:0.7,paper_f1_0.202,0.202,Acetazolamide + Mannitol,1986,6251,False,1,0.26582762826731915,1,1
+2D/stack_cw0.3:0.7,paper_f1_0.202,0.202,Phenytoin sodium + Lactose,657302,6134,False,1,0.6663522116598909,1,1
+2D/stack_cw0.3:0.7,paper_f1_0.202,0.202,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.8731747565057207,1,1
+2D/stack_cw0.3:0.7,paper_f1_0.202,0.202,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.567627944476189,1,1
+2D/stack_cw0.3:0.7,paper_f1_0.202,0.202,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.17190777799726298,0,0
+2D/stack_cw0.3:0.7,paper_f1_0.202,0.202,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.16533293002501673,0,0
+2D/stack_cw0.3:0.7,paper_f1_0.202,0.202,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.9415949496827193,1,0
+2D/stack_cw0.3:0.7,paper_f1_0.202,0.202,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.9341197642690745,1,0
+2D/stack_cw0.3:0.7,paper_f1_0.202,0.202,GABAPENTIN + MANNITOL,3446,6251,False,0,0.8726818410065945,1,0
+2D/stack_cw0.3:0.7,paper_f1_0.202,0.202,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.0632683531591022,0,1
+2D/stack_cw0.3:0.7,paper_f1_0.202,0.202,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.5788303093109606,1,0
+2D/stack_cw0.3:0.7,paper_f1_0.202,0.202,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.9080373194461743,1,0
+2D/stack_cw0.3:0.7,paper_f1_0.202,0.202,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.037374361451971774,0,1
+2D/stack_cw0.3:0.7,paper_f1_0.202,0.202,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.31006653228995,1,0
+2D/stack_cw0.3:0.7,paper_f1_0.202,0.202,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.6585176178569668,1,0
+2D/stack_cw0.3:0.7,paper_f1_0.202,0.202,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.1820399306166489,0,1
+2D/stack_cw0.3:0.7,paper_f1_0.202,0.202,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.062137228174372276,0,1
+2D/stack_cw0.3:0.7,paper_f1_0.202,0.202,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.6886423454106907,1,0
+2D/stack_cw0.3:0.7,paper_ghost_0.020,0.02,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.13067024872684874,1,1
+2D/stack_cw0.3:0.7,paper_ghost_0.020,0.02,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9426348250542829,1,1
+2D/stack_cw0.3:0.7,paper_ghost_0.020,0.02,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.8691971854417683,1,1
+2D/stack_cw0.3:0.7,paper_ghost_0.020,0.02,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.38757155078827654,1,1
+2D/stack_cw0.3:0.7,paper_ghost_0.020,0.02,Fluvoxamine + Lactose,5324346,6134,False,1,0.2580453880532417,1,1
+2D/stack_cw0.3:0.7,paper_ghost_0.020,0.02,Acetazolamide + Lactose,1986,6134,False,1,0.3079508746585339,1,1
+2D/stack_cw0.3:0.7,paper_ghost_0.020,0.02,Acetazolamide + Mannitol,1986,6251,False,1,0.26582762826731915,1,1
+2D/stack_cw0.3:0.7,paper_ghost_0.020,0.02,Phenytoin sodium + Lactose,657302,6134,False,1,0.6663522116598909,1,1
+2D/stack_cw0.3:0.7,paper_ghost_0.020,0.02,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.8731747565057207,1,1
+2D/stack_cw0.3:0.7,paper_ghost_0.020,0.02,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.567627944476189,1,1
+2D/stack_cw0.3:0.7,paper_ghost_0.020,0.02,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.17190777799726298,1,1
+2D/stack_cw0.3:0.7,paper_ghost_0.020,0.02,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.16533293002501673,1,1
+2D/stack_cw0.3:0.7,paper_ghost_0.020,0.02,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.9415949496827193,1,0
+2D/stack_cw0.3:0.7,paper_ghost_0.020,0.02,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.9341197642690745,1,0
+2D/stack_cw0.3:0.7,paper_ghost_0.020,0.02,GABAPENTIN + MANNITOL,3446,6251,False,0,0.8726818410065945,1,0
+2D/stack_cw0.3:0.7,paper_ghost_0.020,0.02,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.0632683531591022,1,0
+2D/stack_cw0.3:0.7,paper_ghost_0.020,0.02,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.5788303093109606,1,0
+2D/stack_cw0.3:0.7,paper_ghost_0.020,0.02,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.9080373194461743,1,0
+2D/stack_cw0.3:0.7,paper_ghost_0.020,0.02,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.037374361451971774,1,0
+2D/stack_cw0.3:0.7,paper_ghost_0.020,0.02,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.31006653228995,1,0
+2D/stack_cw0.3:0.7,paper_ghost_0.020,0.02,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.6585176178569668,1,0
+2D/stack_cw0.3:0.7,paper_ghost_0.020,0.02,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.1820399306166489,1,0
+2D/stack_cw0.3:0.7,paper_ghost_0.020,0.02,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.062137228174372276,1,0
+2D/stack_cw0.3:0.7,paper_ghost_0.020,0.02,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.6886423454106907,1,0
+combined/cw0.3:0.7,default_0.5,0.5,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.2676737086711762,0,0
+combined/cw0.3:0.7,default_0.5,0.5,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9634579345608364,1,1
+combined/cw0.3:0.7,default_0.5,0.5,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.9579449716161531,1,1
+combined/cw0.3:0.7,default_0.5,0.5,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.5469231061384991,1,1
+combined/cw0.3:0.7,default_0.5,0.5,Fluvoxamine + Lactose,5324346,6134,False,1,0.12539791626439653,0,0
+combined/cw0.3:0.7,default_0.5,0.5,Acetazolamide + Lactose,1986,6134,False,1,0.528854002546807,1,1
+combined/cw0.3:0.7,default_0.5,0.5,Acetazolamide + Mannitol,1986,6251,False,1,0.5566209206710221,1,1
+combined/cw0.3:0.7,default_0.5,0.5,Phenytoin sodium + Lactose,657302,6134,False,1,0.43143177458554033,0,0
+combined/cw0.3:0.7,default_0.5,0.5,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.9067344743083683,1,1
+combined/cw0.3:0.7,default_0.5,0.5,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.7183621703989198,1,1
+combined/cw0.3:0.7,default_0.5,0.5,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.09396552246056468,0,0
+combined/cw0.3:0.7,default_0.5,0.5,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.10178981769111396,0,0
+combined/cw0.3:0.7,default_0.5,0.5,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.96884611005455,1,0
+combined/cw0.3:0.7,default_0.5,0.5,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.7087102056233016,1,0
+combined/cw0.3:0.7,default_0.5,0.5,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9619457243219521,1,0
+combined/cw0.3:0.7,default_0.5,0.5,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.022640666657409294,0,1
+combined/cw0.3:0.7,default_0.5,0.5,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.7976156707365837,1,0
+combined/cw0.3:0.7,default_0.5,0.5,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.965631635457189,1,0
+combined/cw0.3:0.7,default_0.5,0.5,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.019401056914463463,0,1
+combined/cw0.3:0.7,default_0.5,0.5,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.23940784268299106,0,1
+combined/cw0.3:0.7,default_0.5,0.5,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.8524498848822064,1,0
+combined/cw0.3:0.7,default_0.5,0.5,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.046515339019846516,0,1
+combined/cw0.3:0.7,default_0.5,0.5,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.023622188558252228,0,1
+combined/cw0.3:0.7,default_0.5,0.5,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.4638385093848991,0,1
+combined/cw0.3:0.7,f1_val,0.387,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.2676737086711762,0,0
+combined/cw0.3:0.7,f1_val,0.387,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9634579345608364,1,1
+combined/cw0.3:0.7,f1_val,0.387,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.9579449716161531,1,1
+combined/cw0.3:0.7,f1_val,0.387,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.5469231061384991,1,1
+combined/cw0.3:0.7,f1_val,0.387,Fluvoxamine + Lactose,5324346,6134,False,1,0.12539791626439653,0,0
+combined/cw0.3:0.7,f1_val,0.387,Acetazolamide + Lactose,1986,6134,False,1,0.528854002546807,1,1
+combined/cw0.3:0.7,f1_val,0.387,Acetazolamide + Mannitol,1986,6251,False,1,0.5566209206710221,1,1
+combined/cw0.3:0.7,f1_val,0.387,Phenytoin sodium + Lactose,657302,6134,False,1,0.43143177458554033,1,1
+combined/cw0.3:0.7,f1_val,0.387,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.9067344743083683,1,1
+combined/cw0.3:0.7,f1_val,0.387,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.7183621703989198,1,1
+combined/cw0.3:0.7,f1_val,0.387,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.09396552246056468,0,0
+combined/cw0.3:0.7,f1_val,0.387,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.10178981769111396,0,0
+combined/cw0.3:0.7,f1_val,0.387,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.96884611005455,1,0
+combined/cw0.3:0.7,f1_val,0.387,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.7087102056233016,1,0
+combined/cw0.3:0.7,f1_val,0.387,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9619457243219521,1,0
+combined/cw0.3:0.7,f1_val,0.387,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.022640666657409294,0,1
+combined/cw0.3:0.7,f1_val,0.387,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.7976156707365837,1,0
+combined/cw0.3:0.7,f1_val,0.387,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.965631635457189,1,0
+combined/cw0.3:0.7,f1_val,0.387,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.019401056914463463,0,1
+combined/cw0.3:0.7,f1_val,0.387,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.23940784268299106,0,1
+combined/cw0.3:0.7,f1_val,0.387,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.8524498848822064,1,0
+combined/cw0.3:0.7,f1_val,0.387,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.046515339019846516,0,1
+combined/cw0.3:0.7,f1_val,0.387,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.023622188558252228,0,1
+combined/cw0.3:0.7,f1_val,0.387,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.4638385093848991,1,0
+combined/cw0.3:0.7,paper_f1_0.202,0.202,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.2676737086711762,1,1
+combined/cw0.3:0.7,paper_f1_0.202,0.202,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9634579345608364,1,1
+combined/cw0.3:0.7,paper_f1_0.202,0.202,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.9579449716161531,1,1
+combined/cw0.3:0.7,paper_f1_0.202,0.202,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.5469231061384991,1,1
+combined/cw0.3:0.7,paper_f1_0.202,0.202,Fluvoxamine + Lactose,5324346,6134,False,1,0.12539791626439653,0,0
+combined/cw0.3:0.7,paper_f1_0.202,0.202,Acetazolamide + Lactose,1986,6134,False,1,0.528854002546807,1,1
+combined/cw0.3:0.7,paper_f1_0.202,0.202,Acetazolamide + Mannitol,1986,6251,False,1,0.5566209206710221,1,1
+combined/cw0.3:0.7,paper_f1_0.202,0.202,Phenytoin sodium + Lactose,657302,6134,False,1,0.43143177458554033,1,1
+combined/cw0.3:0.7,paper_f1_0.202,0.202,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.9067344743083683,1,1
+combined/cw0.3:0.7,paper_f1_0.202,0.202,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.7183621703989198,1,1
+combined/cw0.3:0.7,paper_f1_0.202,0.202,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.09396552246056468,0,0
+combined/cw0.3:0.7,paper_f1_0.202,0.202,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.10178981769111396,0,0
+combined/cw0.3:0.7,paper_f1_0.202,0.202,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.96884611005455,1,0
+combined/cw0.3:0.7,paper_f1_0.202,0.202,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.7087102056233016,1,0
+combined/cw0.3:0.7,paper_f1_0.202,0.202,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9619457243219521,1,0
+combined/cw0.3:0.7,paper_f1_0.202,0.202,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.022640666657409294,0,1
+combined/cw0.3:0.7,paper_f1_0.202,0.202,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.7976156707365837,1,0
+combined/cw0.3:0.7,paper_f1_0.202,0.202,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.965631635457189,1,0
+combined/cw0.3:0.7,paper_f1_0.202,0.202,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.019401056914463463,0,1
+combined/cw0.3:0.7,paper_f1_0.202,0.202,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.23940784268299106,1,0
+combined/cw0.3:0.7,paper_f1_0.202,0.202,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.8524498848822064,1,0
+combined/cw0.3:0.7,paper_f1_0.202,0.202,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.046515339019846516,0,1
+combined/cw0.3:0.7,paper_f1_0.202,0.202,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.023622188558252228,0,1
+combined/cw0.3:0.7,paper_f1_0.202,0.202,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.4638385093848991,1,0
+combined/cw0.3:0.7,paper_ghost_0.020,0.02,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.2676737086711762,1,1
+combined/cw0.3:0.7,paper_ghost_0.020,0.02,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9634579345608364,1,1
+combined/cw0.3:0.7,paper_ghost_0.020,0.02,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.9579449716161531,1,1
+combined/cw0.3:0.7,paper_ghost_0.020,0.02,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.5469231061384991,1,1
+combined/cw0.3:0.7,paper_ghost_0.020,0.02,Fluvoxamine + Lactose,5324346,6134,False,1,0.12539791626439653,1,1
+combined/cw0.3:0.7,paper_ghost_0.020,0.02,Acetazolamide + Lactose,1986,6134,False,1,0.528854002546807,1,1
+combined/cw0.3:0.7,paper_ghost_0.020,0.02,Acetazolamide + Mannitol,1986,6251,False,1,0.5566209206710221,1,1
+combined/cw0.3:0.7,paper_ghost_0.020,0.02,Phenytoin sodium + Lactose,657302,6134,False,1,0.43143177458554033,1,1
+combined/cw0.3:0.7,paper_ghost_0.020,0.02,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.9067344743083683,1,1
+combined/cw0.3:0.7,paper_ghost_0.020,0.02,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.7183621703989198,1,1
+combined/cw0.3:0.7,paper_ghost_0.020,0.02,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.09396552246056468,1,1
+combined/cw0.3:0.7,paper_ghost_0.020,0.02,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.10178981769111396,1,1
+combined/cw0.3:0.7,paper_ghost_0.020,0.02,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.96884611005455,1,0
+combined/cw0.3:0.7,paper_ghost_0.020,0.02,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.7087102056233016,1,0
+combined/cw0.3:0.7,paper_ghost_0.020,0.02,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9619457243219521,1,0
+combined/cw0.3:0.7,paper_ghost_0.020,0.02,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.022640666657409294,1,0
+combined/cw0.3:0.7,paper_ghost_0.020,0.02,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.7976156707365837,1,0
+combined/cw0.3:0.7,paper_ghost_0.020,0.02,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.965631635457189,1,0
+combined/cw0.3:0.7,paper_ghost_0.020,0.02,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.019401056914463463,0,1
+combined/cw0.3:0.7,paper_ghost_0.020,0.02,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.23940784268299106,1,0
+combined/cw0.3:0.7,paper_ghost_0.020,0.02,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.8524498848822064,1,0
+combined/cw0.3:0.7,paper_ghost_0.020,0.02,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.046515339019846516,1,0
+combined/cw0.3:0.7,paper_ghost_0.020,0.02,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.023622188558252228,1,0
+combined/cw0.3:0.7,paper_ghost_0.020,0.02,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.4638385093848991,1,0
+combined/cw0.3:0.7,ghost_train,0.05,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.2676737086711762,1,1
+combined/cw0.3:0.7,ghost_train,0.05,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9634579345608364,1,1
+combined/cw0.3:0.7,ghost_train,0.05,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.9579449716161531,1,1
+combined/cw0.3:0.7,ghost_train,0.05,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.5469231061384991,1,1
+combined/cw0.3:0.7,ghost_train,0.05,Fluvoxamine + Lactose,5324346,6134,False,1,0.12539791626439653,1,1
+combined/cw0.3:0.7,ghost_train,0.05,Acetazolamide + Lactose,1986,6134,False,1,0.528854002546807,1,1
+combined/cw0.3:0.7,ghost_train,0.05,Acetazolamide + Mannitol,1986,6251,False,1,0.5566209206710221,1,1
+combined/cw0.3:0.7,ghost_train,0.05,Phenytoin sodium + Lactose,657302,6134,False,1,0.43143177458554033,1,1
+combined/cw0.3:0.7,ghost_train,0.05,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.9067344743083683,1,1
+combined/cw0.3:0.7,ghost_train,0.05,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.7183621703989198,1,1
+combined/cw0.3:0.7,ghost_train,0.05,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.09396552246056468,1,1
+combined/cw0.3:0.7,ghost_train,0.05,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.10178981769111396,1,1
+combined/cw0.3:0.7,ghost_train,0.05,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.96884611005455,1,0
+combined/cw0.3:0.7,ghost_train,0.05,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.7087102056233016,1,0
+combined/cw0.3:0.7,ghost_train,0.05,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9619457243219521,1,0
+combined/cw0.3:0.7,ghost_train,0.05,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.022640666657409294,0,1
+combined/cw0.3:0.7,ghost_train,0.05,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.7976156707365837,1,0
+combined/cw0.3:0.7,ghost_train,0.05,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.965631635457189,1,0
+combined/cw0.3:0.7,ghost_train,0.05,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.019401056914463463,0,1
+combined/cw0.3:0.7,ghost_train,0.05,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.23940784268299106,1,0
+combined/cw0.3:0.7,ghost_train,0.05,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.8524498848822064,1,0
+combined/cw0.3:0.7,ghost_train,0.05,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.046515339019846516,0,1
+combined/cw0.3:0.7,ghost_train,0.05,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.023622188558252228,0,1
+combined/cw0.3:0.7,ghost_train,0.05,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.4638385093848991,1,0
+combined/cw0.3:0.7,ghost_val,0.39,Warfarin + Magnesium aluminum silicate,54678486,3084116,False,1,0.2676737086711762,0,0
+combined/cw0.3:0.7,ghost_val,0.39,Phenytoin + Magnesium oxide,1775,14792,False,1,0.9634579345608364,1,1
+combined/cw0.3:0.7,ghost_val,0.39,Trichlormethiazide + Magnesium oxide,5560,14792,False,1,0.9579449716161531,1,1
+combined/cw0.3:0.7,ghost_val,0.39,Tetracycline + Calcium phosphate,54675776,21226083,False,1,0.5469231061384991,1,1
+combined/cw0.3:0.7,ghost_val,0.39,Fluvoxamine + Lactose,5324346,6134,False,1,0.12539791626439653,0,0
+combined/cw0.3:0.7,ghost_val,0.39,Acetazolamide + Lactose,1986,6134,False,1,0.528854002546807,1,1
+combined/cw0.3:0.7,ghost_val,0.39,Acetazolamide + Mannitol,1986,6251,False,1,0.5566209206710221,1,1
+combined/cw0.3:0.7,ghost_val,0.39,Phenytoin sodium + Lactose,657302,6134,False,1,0.43143177458554033,1,1
+combined/cw0.3:0.7,ghost_val,0.39,Phenytoin sodium + Calcium sulfate,657302,24497,False,1,0.9067344743083683,1,1
+combined/cw0.3:0.7,ghost_val,0.39,Hydrocortisone + Magnesium stearate,5754,11177,True,1,0.7183621703989198,1,1
+combined/cw0.3:0.7,ghost_val,0.39,Hydrocortisone + Beta cyclodextrin,5754,444041,True,1,0.09396552246056468,0,0
+combined/cw0.3:0.7,ghost_val,0.39,Quercetin + Magnesium carbonate,5280343,11029,False,1,0.10178981769111396,0,0
+combined/cw0.3:0.7,ghost_val,0.39,METFORMIN HYDROCHLORIDE + MAGNESIUM STEARATE,14219,11177,False,0,0.96884611005455,1,0
+combined/cw0.3:0.7,ghost_val,0.39,LAMOTRIGINE + SODIUM LAURYL SULFATE,3878,3423265,False,0,0.7087102056233016,1,0
+combined/cw0.3:0.7,ghost_val,0.39,GABAPENTIN + MANNITOL,3446,6251,False,0,0.9619457243219521,1,0
+combined/cw0.3:0.7,ghost_val,0.39,OMEPRAZOLE + SILICON DIOXIDE,4594,24261,False,0,0.022640666657409294,0,1
+combined/cw0.3:0.7,ghost_val,0.39,CARBAMAZEPINE + PROPYLENE GLYCOL,2554,1030,False,0,0.7976156707365837,1,0
+combined/cw0.3:0.7,ghost_val,0.39,HYDROCHLOROTHIAZIDE + STEARIC ACID,3639,5281,False,0,0.965631635457189,1,0
+combined/cw0.3:0.7,ghost_val,0.39,CELECOXIB + TITANIUM DIOXIDE,2662,26042,False,0,0.019401056914463463,0,1
+combined/cw0.3:0.7,ghost_val,0.39,TOPIRAMATE + TRIACETIN,5284627,5541,False,0,0.23940784268299106,0,1
+combined/cw0.3:0.7,ghost_val,0.39,LEVETIRACETAM + TALC,5284583,165411828,False,0,0.8524498848822064,1,0
+combined/cw0.3:0.7,ghost_val,0.39,FENOFIBRATE + SUCROSE,3339,5988,False,0,0.046515339019846516,0,1
+combined/cw0.3:0.7,ghost_val,0.39,RISPERIDONE + LACTOSE MONOHYDRATE,5073,104938,False,0,0.023622188558252228,0,1
+combined/cw0.3:0.7,ghost_val,0.39,OLANZAPINE + MAGNESIUM STEARATE,135398745,11177,False,0,0.4638385093848991,1,0
